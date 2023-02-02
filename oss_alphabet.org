@@ -8,6 +8,7 @@
 *** b
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675358853978
 :END:
 **** Front
 Alfabet
@@ -18,6 +19,7 @@ b
 *** p
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675358854810
 :END:
 **** Front
 Alfabet
@@ -28,6 +30,7 @@ p
 *** d
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675358855596
 :END:
 **** Front
 Alfabet
@@ -38,6 +41,7 @@ d
 *** t
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675358855960
 :END:
 **** Front
 Alfabet
@@ -48,6 +52,7 @@ t
 *** g
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675358856344
 :END:
 **** Front
 Alfabet
@@ -58,6 +63,7 @@ g
 *** k
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675358856715
 :END:
 **** Front
 Alfabet
@@ -68,6 +74,7 @@ k
 *** j
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675358857075
 :END:
 **** Front
 Alfabet
@@ -78,6 +85,7 @@ j
 *** ch
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675358857431
 :END:
 **** Front
 Alfabet
@@ -88,6 +96,7 @@ ch
 *** v
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675358857980
 :END:
 **** Front
 Alfabet
@@ -98,6 +107,7 @@ v
 *** f
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675358858382
 :END:
 **** Front
 Alfabet
@@ -108,6 +118,7 @@ f
 *** dh
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675358858802
 :END:
 **** Front
 Alfabet
@@ -118,6 +129,7 @@ dh
 *** th
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675358859208
 :END:
 **** Front
 Alfabet
@@ -128,6 +140,7 @@ th
 *** z
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675358859632
 :END:
 **** Front
 Alfabet
@@ -138,6 +151,7 @@ z
 *** s
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675358860122
 :END:
 **** Front
 Alfabet
@@ -148,6 +162,7 @@ s
 *** zh
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675358860583
 :END:
 **** Front
 Alfabet
@@ -158,6 +173,7 @@ zh
 *** sh
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675358861025
 :END:
 **** Front
 Alfabet
@@ -168,6 +184,7 @@ sh
 *** h
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675358861455
 :END:
 **** Front
 Alfabet
@@ -178,6 +195,7 @@ h
 *** m
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675358861917
 :END:
 **** Front
 Alfabet
@@ -188,6 +206,7 @@ m
 *** n
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675358862499
 :END:
 **** Front
 Alfabet
@@ -198,6 +217,7 @@ n
 *** ng
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675358862914
 :END:
 **** Front
 Alfabet
@@ -208,6 +228,7 @@ ng
 *** r
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675358863355
 :END:
 **** Front
 Alfabet
@@ -218,6 +239,7 @@ r
 *** l
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675358863781
 :END:
 **** Front
 Alfabet
@@ -228,6 +250,7 @@ l
 *** w
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675358864183
 :END:
 **** Front
 Alfabet
@@ -238,6 +261,7 @@ w
 *** wh
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675358864655
 :END:
 **** Front
 Alfabet
@@ -248,6 +272,7 @@ wh
 *** y
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675358865111
 :END:
 **** Front
 Alfabet
@@ -258,6 +283,7 @@ y
 *** sp
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675358865548
 :END:
 **** Front
 Alfabet
@@ -268,6 +294,7 @@ sp
 *** sk
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675358865971
 :END:
 **** Front
 Alfabet
@@ -278,6 +305,7 @@ sk
 *** st
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675358866384
 :END:
 **** Front
 Alfabet
@@ -288,6 +316,7 @@ st
 *** ngg
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675358866985
 :END:
 **** Front
 Alfabet
@@ -298,6 +327,7 @@ ng
 *** nk
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675358867378
 :END:
 **** Front
 Alfabet
@@ -308,6 +338,7 @@ nk
 *** nj
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675358867809
 :END:
 **** Front
 Alfabet
@@ -318,6 +349,7 @@ nj
 *** ngth
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675358868238
 :END:
 **** Front
 Alfabet
@@ -328,6 +360,7 @@ ngth
 *** nth
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675358868615
 :END:
 **** Front
 Alfabet
@@ -338,6 +371,7 @@ nth
 *** nzh
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675358869059
 :END:
 **** Front
 Alfabet
@@ -348,6 +382,7 @@ nzh
 *** nsh
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675358869448
 :END:
 **** Front
 Alfabet
@@ -358,6 +393,7 @@ nsh
 *** nch
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675358869860
 :END:
 **** Front
 Alfabet
@@ -368,6 +404,7 @@ nch
 *** nd
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675358870289
 :END:
 **** Front
 Alfabet
@@ -378,6 +415,7 @@ nd
 *** nt
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675358870934
 :END:
 **** Front
 Alfabet
@@ -388,6 +426,7 @@ nt
 *** mb
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675358871401
 :END:
 **** Front
 Alfabet
@@ -398,6 +437,7 @@ mb
 *** mp
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675358871854
 :END:
 **** Front
 Alfabet
@@ -408,6 +448,7 @@ mp
 *** nz
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675358872304
 :END:
 **** Front
 Alfabet
@@ -418,6 +459,7 @@ nz
 *** ns
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675358872780
 :END:
 **** Front
 Alfabet
@@ -428,6 +470,7 @@ ns
 *** nc
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675358873231
 :END:
 **** Front
 Alfabet
@@ -438,6 +481,7 @@ nc(e)
 *** ny
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675358873689
 :END:
 **** Front
 Alfabet
@@ -448,6 +492,7 @@ ny
 *** gw
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675358874109
 :END:
 **** Front
 Alfabet
@@ -458,6 +503,7 @@ gw
 *** kw
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675358874697
 :END:
 **** Front
 Alfabet
@@ -468,6 +514,7 @@ kw
 *** dw
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675358875268
 :END:
 **** Front
 Alfabet
@@ -478,6 +525,7 @@ dw
 *** tw
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675358875925
 :END:
 **** Front
 Alfabet
@@ -488,6 +536,7 @@ tw
 *** sw
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675358876335
 :END:
 **** Front
 Alfabet
@@ -498,6 +547,7 @@ sw
 *** skw
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675358876802
 :END:
 **** Front
 Alfabet
@@ -508,6 +558,7 @@ skw
 *** thw
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675358877282
 :END:
 **** Front
 Alfabet
@@ -518,6 +569,7 @@ thw
 *** -th
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675358877703
 :END:
 **** Front
 Alfabet
@@ -528,6 +580,7 @@ Alfabet
 *** -st
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675358878093
 :END:
 **** Front
 Alfabet
@@ -538,6 +591,7 @@ Alfabet
 *** -d
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675358878529
 :END:
 **** Front
 Alfabet
@@ -548,6 +602,7 @@ Alfabet
 *** -t
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675358878955
 :END:
 **** Front
 Alfabet
@@ -558,6 +613,7 @@ Alfabet
 *** -s
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675358879360
 :END:
 **** Front
 Alfabet
@@ -568,6 +624,7 @@ Alfabet
 *** -es
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675358879850
 :END:
 **** Front
 Alfabet
@@ -578,6 +635,7 @@ Alfabet
 *** c
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675358880538
 :END:
 **** Front
 Alfabet
@@ -585,19 +643,21 @@ Alfabet
 [[file:alphabet/c.png]]
 **** Back
 c
-*** nc
+*** ncc
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675359081149
 :END:
 **** Front
 Alfabet
 
-[[file:alphabet/nc.png]]
+[[file:alphabet/ncc.png]]
 **** Back
 nc
 *** q
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675358881726
 :END:
 **** Front
 Alfabet
@@ -608,6 +668,7 @@ q
 *** nq
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675358882251
 :END:
 **** Front
 Alfabet
@@ -618,6 +679,7 @@ nq
 *** x
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675358882636
 :END:
 **** Front
 Alfabet
@@ -628,6 +690,7 @@ x
 *** xt
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675358883059
 :END:
 **** Front
 Alfabet
@@ -638,6 +701,7 @@ xt
 *** nx
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675358883535
 :END:
 **** Front
 Alfabet
@@ -648,6 +712,7 @@ nx
 *** nxt
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675358883937
 :END:
 **** Front
 Alfabet
@@ -658,6 +723,7 @@ nxt
 *** y
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675358884338
 :END:
 **** Front
 Alfabet
