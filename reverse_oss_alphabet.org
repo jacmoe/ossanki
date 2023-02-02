@@ -1,0 +1,27 @@
+#+PROPERTY: ANKI_DECK OSS-Alphabet-Reverse
+
+* Stenoscript
+:PROPERTIES:
+:ANKI_DECK: OSS-Alphabet-Reverse
+:END:
+** Alphabet
+*** b
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Alphabet
+
+b
+**** Back
+[[file:alphabet/b.png]]
+*** c
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Alphabet
+
+c
+**** Back
+[[file:alphabet/c.png]]

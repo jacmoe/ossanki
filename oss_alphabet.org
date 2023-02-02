@@ -1,0 +1,397 @@
+#+PROPERTY: ANKI_DECK OSS-Alphabet
+
+* Stenoscript
+:PROPERTIES:
+:ANKI_DECK: OSS-Alphabet
+:END:
+** Alphabet
+*** b
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Alfabet
+
+[[file:alphabet/b.png]]
+**** Back
+b
+*** p
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Alfabet
+
+[[file:alphabet/p.png]]
+**** Back
+p
+*** d
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Alfabet
+
+[[file:alphabet/d.png]]
+**** Back
+d
+*** t
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Alfabet
+
+[[file:alphabet/t.png]]
+**** Back
+t
+*** g
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Alfabet
+
+[[file:alphabet/g.png]]
+**** Back
+g
+*** k
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Alfabet
+
+[[file:alphabet/k.png]]
+**** Back
+k
+*** j
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Alfabet
+
+[[file:alphabet/j.png]]
+**** Back
+j
+*** ch
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Alfabet
+
+[[file:alphabet/ch.png]]
+**** Back
+ch
+*** v
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Alfabet
+
+[[file:alphabet/v.png]]
+**** Back
+v
+*** f
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Alfabet
+
+[[file:alphabet/f.png]]
+**** Back
+f
+*** dh
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Alfabet
+
+[[file:alphabet/dh.png]]
+**** Back
+dh
+*** th
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Alfabet
+
+[[file:alphabet/th.png]]
+**** Back
+th
+*** z
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Alfabet
+
+[[file:alphabet/z.png]]
+**** Back
+z
+*** s
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Alfabet
+
+[[file:alphabet/s.png]]
+**** Back
+s
+*** zh
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Alfabet
+
+[[file:alphabet/zh.png]]
+**** Back
+zh
+*** sh
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Alfabet
+
+[[file:alphabet/sh.png]]
+**** Back
+sh
+*** h
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Alfabet
+
+[[file:alphabet/h.png]]
+**** Back
+h
+*** m
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Alfabet
+
+[[file:alphabet/m.png]]
+**** Back
+m
+*** n
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Alfabet
+
+[[file:alphabet/n.png]]
+**** Back
+n
+*** ng
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Alfabet
+
+[[file:alphabet/ng.png]]
+**** Back
+ng
+*** r
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Alfabet
+
+[[file:alphabet/r.png]]
+**** Back
+r
+*** l
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Alfabet
+
+[[file:alphabet/l.png]]
+**** Back
+l
+*** w
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Alfabet
+
+[[file:alphabet/w.png]]
+**** Back
+w
+*** wh
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Alfabet
+
+[[file:alphabet/wh.png]]
+**** Back
+wh
+*** y
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Alfabet
+
+[[file:alphabet/y.png]]
+**** Back
+y
+*** sp
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Alfabet
+
+[[file:alphabet/sp.png]]
+**** Back
+sp
+*** sk
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Alfabet
+
+[[file:alphabet/sk.png]]
+**** Back
+sk
+*** st
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Alfabet
+
+[[file:alphabet/st.png]]
+**** Back
+st
+*** ngg
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Alfabet
+
+[[file:alphabet/ngg.png]]
+**** Back
+ng
+*** nk
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Alfabet
+
+[[file:alphabet/nk.png]]
+**** Back
+nk
+*** nj
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Alfabet
+
+[[file:alphabet/nj.png]]
+**** Back
+nj
+*** ngth
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Alfabet
+
+[[file:alphabet/ngth.png]]
+**** Back
+ngth
+*** nth
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Alfabet
+
+[[file:alphabet/nth.png]]
+**** Back
+nth
+*** nzh
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Alfabet
+
+[[file:alphabet/nzh.png]]
+**** Back
+nzh
+*** nsh
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Alfabet
+
+[[file:alphabet/nsh.png]]
+**** Back
+nsh
+*** nch
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Alfabet
+
+[[file:alphabet/nch.png]]
+**** Back
+nch
+*** nd
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Alfabet
+
+[[file:alphabet/nd.png]]
+**** Back
+nd
+*** nt
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Alfabet
+
+[[file:alphabet/nt.png]]
+**** Back
+nt
+*** d
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Alfabet
+
+[[file:alphabet/d.png]]
+**** Back
+d
