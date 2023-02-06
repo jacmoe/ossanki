@@ -1,0 +1,645 @@
+#+PROPERTY: ANKI_DECK OSS-Words
+
+* Stenoscript
+:PROPERTIES:
+:ANKI_DECK: OSS-Words
+:END:
+** Words
+*** cat
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675717409161
+:END:
+**** Front
+Words
+
+[[file:words/cat.png]]
+**** Back
+cat
+*** calf
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675717409718
+:END:
+**** Front
+Words
+
+[[file:words/calf.png]]
+**** Back
+calf
+*** pet
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675717410080
+:END:
+**** Front
+Words
+
+[[file:words/pet.png]]
+**** Back
+pet
+*** pate
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675717410445
+:END:
+**** Front
+Words
+
+[[file:words/pate.png]]
+**** Back
+pate
+*** pitch
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675717411028
+:END:
+**** Front
+Words
+
+[[file:words/peach.png]]
+**** Back
+peach
+*** loose
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675717411362
+:END:
+**** Front
+Words
+
+[[file:words/loose.png]]
+**** Back
+loose
+*** muse
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675717411753
+:END:
+**** Front
+Words
+
+[[file:words/muse.png]]
+**** Back
+muse
+*** side
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675717412181
+:END:
+**** Front
+Words
+
+[[file:words/side.png]]
+**** Back
+side
+*** void
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675717412752
+:END:
+**** Front
+Words
+
+[[file:words/void.png]]
+**** Back
+void
+*** cod
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675717413081
+:END:
+**** Front
+Words
+
+[[file:words/cod.png]]
+**** Back
+cod
+*** code
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675717413425
+:END:
+**** Front
+Words
+
+[[file:words/code.png]]
+**** Back
+code
+*** cup
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675717413830
+:END:
+**** Front
+Words
+
+[[file:words/cup.png]]
+**** Back
+cup
+*** doubt
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675717414227
+:END:
+**** Front
+Words
+
+[[file:words/doubt.png]]
+**** Back
+doubt
+*** at
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675717414575
+:END:
+**** Front
+Words
+
+[[file:words/at.png]]
+**** Back
+at
+*** arm
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675717414900
+:END:
+**** Front
+Words
+
+[[file:words/arm.png]]
+**** Back
+arm
+*** et
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675717415367
+:END:
+**** Front
+Words
+
+[[file:words/et.png]]
+**** Back
+et
+*** eight
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675717415788
+:END:
+**** Front
+Words
+
+[[file:words/eight.png]]
+**** Back
+eight
+*** itch
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675717416172
+:END:
+**** Front
+Words
+
+[[file:words/itch.png]]
+**** Back
+itch
+*** each
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675717416732
+:END:
+**** Front
+Words
+
+[[file:words/each.png]]
+**** Back
+each
+*** ooze
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675717417046
+:END:
+**** Front
+Words
+
+[[file:words/ooze.png]]
+**** Back
+ooze
+*** use
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675717417398
+:END:
+**** Front
+Words
+
+[[file:words/use.png]]
+**** Back
+use
+*** idle
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675717417725
+:END:
+**** Front
+Words
+
+[[file:words/idle.png]]
+**** Back
+idle
+*** odd
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675717418229
+:END:
+**** Front
+Words
+
+[[file:words/odd.png]]
+**** Back
+odd
+*** ode
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675717418569
+:END:
+**** Front
+Words
+
+[[file:words/ode.png]]
+**** Back
+ode
+*** up
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675717418930
+:END:
+**** Front
+Words
+
+[[file:words/up.png]]
+**** Back
+up
+*** out
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675717419405
+:END:
+**** Front
+Words
+
+[[file:words/out.png]]
+**** Back
+out
+*** crate
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675717419776
+:END:
+**** Front
+Words
+
+[[file:words/crate.png]]
+**** Back
+crate
+*** dazzle
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675717420121
+:END:
+**** Front
+Words
+
+[[file:words/dazzle.png]]
+**** Back
+dazzle
+*** blot
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675717420477
+:END:
+**** Front
+Words
+
+[[file:words/blot.png]]
+**** Back
+blot
+*** alphabet
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675717420955
+:END:
+**** Front
+Words
+
+[[file:words/alphabet.png]]
+**** Back
+alphabet
+*** gilpin
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675717421275
+:END:
+**** Front
+Words
+
+[[file:words/gilpin.png]]
+**** Back
+gilpin
+*** hatpin
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675717421639
+:END:
+**** Front
+Words
+
+[[file:words/hatpin.png]]
+**** Back
+hatpin
+*** train
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675717422096
+:END:
+**** Front
+Words
+
+[[file:words/train.png]]
+**** Back
+train
+*** glad
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675717422430
+:END:
+**** Front
+Words
+
+[[file:words/glad.png]]
+**** Back
+glad
+*** trouble
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675717422780
+:END:
+**** Front
+Words
+
+[[file:words/trouble.png]]
+**** Back
+trouble
+*** pat
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675717423130
+:END:
+**** Front
+Words
+
+[[file:words/pat.png]]
+**** Back
+pat
+*** back
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675717423616
+:END:
+**** Front
+Words
+
+[[file:words/back.png]]
+**** Back
+back
+*** mad
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675717423997
+:END:
+**** Front
+Words
+
+[[file:words/mad.png]]
+**** Back
+mad
+*** catch
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675717424349
+:END:
+**** Front
+Words
+
+[[file:words/catch.png]]
+**** Back
+catch
+*** man
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675717424825
+:END:
+**** Front
+Words
+
+[[file:words/man.png]]
+**** Back
+man
+*** dash
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675717425181
+:END:
+**** Front
+Words
+
+[[file:words/dash.png]]
+**** Back
+dash
+*** fat
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675717425527
+:END:
+**** Front
+Words
+
+[[file:words/fat.png]]
+**** Back
+fat
+*** lath
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675717425910
+:END:
+**** Front
+Words
+
+[[file:words/lath.png]]
+**** Back
+lath
+*** add
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675717426400
+:END:
+**** Front
+Words
+
+[[file:words/add.png]]
+**** Back
+add
+*** ass
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675717426775
+:END:
+**** Front
+Words
+
+[[file:words/ass.png]]
+**** Back
+ass
+*** addle
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675717427129
+:END:
+**** Front
+Words
+
+[[file:words/addle.png]]
+**** Back
+addle
+*** debt
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675717427621
+:END:
+**** Front
+Words
+
+[[file:words/debt.png]]
+**** Back
+debt
+*** neck
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675717427984
+:END:
+**** Front
+Words
+
+[[file:words/neck.png]]
+**** Back
+neck
+*** dead
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675717428302
+:END:
+**** Front
+Words
+
+[[file:words/dead.png]]
+**** Back
+dead
+*** death
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675717428649
+:END:
+**** Front
+Words
+
+[[file:words/death.png]]
+**** Back
+death
+*** men
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675717429095
+:END:
+**** Front
+Words
+
+[[file:words/men.png]]
+**** Back
+men
+*** leg
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675717429416
+:END:
+**** Front
+Words
+
+[[file:words/leg.png]]
+**** Back
+leg
+*** guess
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675717429795
+:END:
+**** Front
+Words
+
+[[file:words/guess.png]]
+**** Back
+guess
+*** check
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675717430354
+:END:
+**** Front
+Words
+
+[[file:words/check.png]]
+**** Back
+check
+*** shed
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675717430725
+:END:
+**** Front
+Words
+
+[[file:words/shed.png]]
+**** Back
+shed
+*** ebb
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675717431106
+:END:
+**** Front
+Words
+
+[[file:words/ebb.png]]
+**** Back
+ebb
+*** edge
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675717431423
+:END:
+**** Front
+Words
+
+[[file:words/edge.png]]
+**** Back
+edge
+*** egg
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675717431888
+:END:
+**** Front
+Words
+
+[[file:words/egg.png]]
+**** Back
+egg
