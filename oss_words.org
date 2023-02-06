@@ -57,6 +57,17 @@ pate
 **** Front
 Words
 
+[[file:words/pitch.png]]
+**** Back
+pitch
+*** peach
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675718914709
+:END:
+**** Front
+Words
+
 [[file:words/peach.png]]
 **** Back
 peach
@@ -247,6 +258,17 @@ Words
 [[file:words/idle.png]]
 **** Back
 idle
+*** oid
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675718919660
+:END:
+**** Front
+Words
+
+[[file:words/oid.png]]
+**** Back
+oid
 *** odd
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
