@@ -1,14 +1,13 @@
-#+PROPERTY: ANKI_DECK OSS-Words
+#+PROPERTY: ANKI_DECK OSS-Words-1
 
 * Stenoscript
 :PROPERTIES:
-:ANKI_DECK: OSS-Words
+:ANKI_DECK: OSS-Words-1
 :END:
 ** Words
 *** cat
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:ANKI_NOTE_ID: 1675717409161
 :END:
 **** Front
 Words
@@ -19,7 +18,6 @@ cat
 *** calf
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:ANKI_NOTE_ID: 1675717409718
 :END:
 **** Front
 Words
@@ -30,7 +28,6 @@ calf
 *** pet
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:ANKI_NOTE_ID: 1675717410080
 :END:
 **** Front
 Words
@@ -41,7 +38,6 @@ pet
 *** pate
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:ANKI_NOTE_ID: 1675717410445
 :END:
 **** Front
 Words
@@ -52,7 +48,6 @@ pate
 *** pitch
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:ANKI_NOTE_ID: 1675717411028
 :END:
 **** Front
 Words
@@ -63,7 +58,6 @@ pitch
 *** peach
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:ANKI_NOTE_ID: 1675718914709
 :END:
 **** Front
 Words
@@ -74,7 +68,6 @@ peach
 *** loose
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:ANKI_NOTE_ID: 1675717411362
 :END:
 **** Front
 Words
@@ -85,7 +78,6 @@ loose
 *** muse
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:ANKI_NOTE_ID: 1675717411753
 :END:
 **** Front
 Words
@@ -96,7 +88,6 @@ muse
 *** side
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:ANKI_NOTE_ID: 1675717412181
 :END:
 **** Front
 Words
@@ -107,7 +98,6 @@ side
 *** void
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:ANKI_NOTE_ID: 1675717412752
 :END:
 **** Front
 Words
@@ -118,7 +108,6 @@ void
 *** cod
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:ANKI_NOTE_ID: 1675717413081
 :END:
 **** Front
 Words
@@ -129,7 +118,6 @@ cod
 *** code
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:ANKI_NOTE_ID: 1675717413425
 :END:
 **** Front
 Words
@@ -140,7 +128,6 @@ code
 *** cup
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:ANKI_NOTE_ID: 1675717413830
 :END:
 **** Front
 Words
@@ -151,7 +138,6 @@ cup
 *** doubt
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:ANKI_NOTE_ID: 1675717414227
 :END:
 **** Front
 Words
@@ -162,7 +148,6 @@ doubt
 *** at
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:ANKI_NOTE_ID: 1675717414575
 :END:
 **** Front
 Words
@@ -173,7 +158,6 @@ at
 *** arm
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:ANKI_NOTE_ID: 1675717414900
 :END:
 **** Front
 Words
@@ -184,7 +168,6 @@ arm
 *** et
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:ANKI_NOTE_ID: 1675717415367
 :END:
 **** Front
 Words
@@ -195,7 +178,6 @@ et
 *** eight
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:ANKI_NOTE_ID: 1675717415788
 :END:
 **** Front
 Words
@@ -206,7 +188,6 @@ eight
 *** itch
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:ANKI_NOTE_ID: 1675717416172
 :END:
 **** Front
 Words
@@ -217,7 +198,6 @@ itch
 *** each
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:ANKI_NOTE_ID: 1675717416732
 :END:
 **** Front
 Words
@@ -228,7 +208,6 @@ each
 *** ooze
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:ANKI_NOTE_ID: 1675717417046
 :END:
 **** Front
 Words
@@ -239,7 +218,6 @@ ooze
 *** use
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:ANKI_NOTE_ID: 1675717417398
 :END:
 **** Front
 Words
@@ -250,7 +228,6 @@ use
 *** idle
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:ANKI_NOTE_ID: 1675717417725
 :END:
 **** Front
 Words
@@ -261,7 +238,6 @@ idle
 *** oid
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:ANKI_NOTE_ID: 1675718919660
 :END:
 **** Front
 Words
@@ -272,7 +248,6 @@ oid
 *** odd
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:ANKI_NOTE_ID: 1675717418229
 :END:
 **** Front
 Words
@@ -283,7 +258,6 @@ odd
 *** ode
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:ANKI_NOTE_ID: 1675717418569
 :END:
 **** Front
 Words
@@ -294,7 +268,6 @@ ode
 *** up
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:ANKI_NOTE_ID: 1675717418930
 :END:
 **** Front
 Words
@@ -305,7 +278,6 @@ up
 *** out
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:ANKI_NOTE_ID: 1675717419405
 :END:
 **** Front
 Words
@@ -316,7 +288,6 @@ out
 *** crate
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:ANKI_NOTE_ID: 1675717419776
 :END:
 **** Front
 Words
@@ -327,7 +298,6 @@ crate
 *** dazzle
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:ANKI_NOTE_ID: 1675717420121
 :END:
 **** Front
 Words
@@ -338,7 +308,6 @@ dazzle
 *** blot
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:ANKI_NOTE_ID: 1675717420477
 :END:
 **** Front
 Words
@@ -349,7 +318,6 @@ blot
 *** alphabet
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:ANKI_NOTE_ID: 1675717420955
 :END:
 **** Front
 Words
@@ -360,7 +328,6 @@ alphabet
 *** gilpin
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:ANKI_NOTE_ID: 1675717421275
 :END:
 **** Front
 Words
@@ -371,7 +338,6 @@ gilpin
 *** hatpin
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:ANKI_NOTE_ID: 1675717421639
 :END:
 **** Front
 Words
@@ -382,7 +348,6 @@ hatpin
 *** train
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:ANKI_NOTE_ID: 1675717422096
 :END:
 **** Front
 Words
@@ -393,7 +358,6 @@ train
 *** glad
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:ANKI_NOTE_ID: 1675717422430
 :END:
 **** Front
 Words
@@ -404,7 +368,6 @@ glad
 *** trouble
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:ANKI_NOTE_ID: 1675717422780
 :END:
 **** Front
 Words
@@ -415,7 +378,6 @@ trouble
 *** pat
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:ANKI_NOTE_ID: 1675717423130
 :END:
 **** Front
 Words
@@ -426,7 +388,6 @@ pat
 *** back
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:ANKI_NOTE_ID: 1675717423616
 :END:
 **** Front
 Words
@@ -437,7 +398,6 @@ back
 *** mad
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:ANKI_NOTE_ID: 1675717423997
 :END:
 **** Front
 Words
@@ -448,7 +408,6 @@ mad
 *** catch
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:ANKI_NOTE_ID: 1675717424349
 :END:
 **** Front
 Words
@@ -459,7 +418,6 @@ catch
 *** man
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:ANKI_NOTE_ID: 1675717424825
 :END:
 **** Front
 Words
@@ -470,7 +428,6 @@ man
 *** dash
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:ANKI_NOTE_ID: 1675717425181
 :END:
 **** Front
 Words
@@ -481,7 +438,6 @@ dash
 *** fat
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:ANKI_NOTE_ID: 1675717425527
 :END:
 **** Front
 Words
@@ -492,7 +448,6 @@ fat
 *** lath
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:ANKI_NOTE_ID: 1675717425910
 :END:
 **** Front
 Words
@@ -503,7 +458,6 @@ lath
 *** add
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:ANKI_NOTE_ID: 1675717426400
 :END:
 **** Front
 Words
@@ -514,7 +468,6 @@ add
 *** ass
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:ANKI_NOTE_ID: 1675717426775
 :END:
 **** Front
 Words
@@ -525,7 +478,6 @@ ass
 *** addle
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:ANKI_NOTE_ID: 1675717427129
 :END:
 **** Front
 Words
@@ -536,7 +488,6 @@ addle
 *** debt
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:ANKI_NOTE_ID: 1675717427621
 :END:
 **** Front
 Words
@@ -547,7 +498,6 @@ debt
 *** neck
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:ANKI_NOTE_ID: 1675717427984
 :END:
 **** Front
 Words
@@ -558,7 +508,6 @@ neck
 *** dead
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:ANKI_NOTE_ID: 1675717428302
 :END:
 **** Front
 Words
@@ -569,7 +518,6 @@ dead
 *** death
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:ANKI_NOTE_ID: 1675717428649
 :END:
 **** Front
 Words
@@ -580,7 +528,6 @@ death
 *** men
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:ANKI_NOTE_ID: 1675717429095
 :END:
 **** Front
 Words
@@ -591,7 +538,6 @@ men
 *** leg
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:ANKI_NOTE_ID: 1675717429416
 :END:
 **** Front
 Words
@@ -602,7 +548,6 @@ leg
 *** guess
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:ANKI_NOTE_ID: 1675717429795
 :END:
 **** Front
 Words
@@ -613,7 +558,6 @@ guess
 *** check
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:ANKI_NOTE_ID: 1675717430354
 :END:
 **** Front
 Words
@@ -624,7 +568,6 @@ check
 *** shed
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:ANKI_NOTE_ID: 1675717430725
 :END:
 **** Front
 Words
@@ -635,7 +578,6 @@ shed
 *** ebb
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:ANKI_NOTE_ID: 1675717431106
 :END:
 **** Front
 Words
@@ -646,7 +588,6 @@ ebb
 *** edge
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:ANKI_NOTE_ID: 1675717431423
 :END:
 **** Front
 Words
@@ -657,7 +598,6 @@ edge
 *** egg
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:ANKI_NOTE_ID: 1675717431888
 :END:
 **** Front
 Words
