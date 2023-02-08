@@ -4,14 +4,14 @@
 :PROPERTIES:
 :ANKI_DECK: OSS-Words-1
 :END:
-** Words
+** Words 1
 *** cat
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:ANKI_NOTE_ID: 1675824612811
+:ANKI_NOTE_ID: 1675860532706
 :END:
 **** Front
-Words
+Words 1
 
 [[file:words/cat.png]]
 **** Back
@@ -19,10 +19,10 @@ cat
 *** calf
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:ANKI_NOTE_ID: 1675824613173
+:ANKI_NOTE_ID: 1675860532967
 :END:
 **** Front
-Words
+Words 1
 
 [[file:words/calf.png]]
 **** Back
@@ -30,10 +30,10 @@ calf
 *** pet
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:ANKI_NOTE_ID: 1675824613430
+:ANKI_NOTE_ID: 1675860533378
 :END:
 **** Front
-Words
+Words 1
 
 [[file:words/pet.png]]
 **** Back
@@ -41,10 +41,10 @@ pet
 *** pate
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:ANKI_NOTE_ID: 1675824613604
+:ANKI_NOTE_ID: 1675860533561
 :END:
 **** Front
-Words
+Words 1
 
 [[file:words/pate.png]]
 **** Back
@@ -52,10 +52,10 @@ pate
 *** pitch
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:ANKI_NOTE_ID: 1675824613915
+:ANKI_NOTE_ID: 1675860533744
 :END:
 **** Front
-Words
+Words 1
 
 [[file:words/pitch.png]]
 **** Back
@@ -63,10 +63,10 @@ pitch
 *** peach
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:ANKI_NOTE_ID: 1675824614137
+:ANKI_NOTE_ID: 1675860534121
 :END:
 **** Front
-Words
+Words 1
 
 [[file:words/peach.png]]
 **** Back
@@ -74,10 +74,10 @@ peach
 *** loose
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:ANKI_NOTE_ID: 1675824614311
+:ANKI_NOTE_ID: 1675860534371
 :END:
 **** Front
-Words
+Words 1
 
 [[file:words/loose.png]]
 **** Back
@@ -85,10 +85,10 @@ loose
 *** muse
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:ANKI_NOTE_ID: 1675824614591
+:ANKI_NOTE_ID: 1675860534576
 :END:
 **** Front
-Words
+Words 1
 
 [[file:words/muse.png]]
 **** Back
@@ -96,10 +96,10 @@ muse
 *** side
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:ANKI_NOTE_ID: 1675824614836
+:ANKI_NOTE_ID: 1675860534974
 :END:
 **** Front
-Words
+Words 1
 
 [[file:words/side.png]]
 **** Back
@@ -107,10 +107,10 @@ side
 *** void
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:ANKI_NOTE_ID: 1675824615014
+:ANKI_NOTE_ID: 1675860535218
 :END:
 **** Front
-Words
+Words 1
 
 [[file:words/void.png]]
 **** Back
@@ -118,10 +118,10 @@ void
 *** cod
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:ANKI_NOTE_ID: 1675824615314
+:ANKI_NOTE_ID: 1675860535464
 :END:
 **** Front
-Words
+Words 1
 
 [[file:words/cod.png]]
 **** Back
@@ -129,10 +129,10 @@ cod
 *** code
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:ANKI_NOTE_ID: 1675824615514
+:ANKI_NOTE_ID: 1675860535847
 :END:
 **** Front
-Words
+Words 1
 
 [[file:words/code.png]]
 **** Back
@@ -140,10 +140,10 @@ code
 *** cup
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:ANKI_NOTE_ID: 1675824615686
+:ANKI_NOTE_ID: 1675860536040
 :END:
 **** Front
-Words
+Words 1
 
 [[file:words/cup.png]]
 **** Back
@@ -151,10 +151,10 @@ cup
 *** doubt
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:ANKI_NOTE_ID: 1675824615861
+:ANKI_NOTE_ID: 1675860536238
 :END:
 **** Front
-Words
+Words 1
 
 [[file:words/doubt.png]]
 **** Back
@@ -162,10 +162,10 @@ doubt
 *** at
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:ANKI_NOTE_ID: 1675824616269
+:ANKI_NOTE_ID: 1675860536564
 :END:
 **** Front
-Words
+Words 1
 
 [[file:words/at.png]]
 **** Back
@@ -173,10 +173,10 @@ at
 *** arm
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:ANKI_NOTE_ID: 1675824616436
+:ANKI_NOTE_ID: 1675860536765
 :END:
 **** Front
-Words
+Words 1
 
 [[file:words/arm.png]]
 **** Back
@@ -184,10 +184,10 @@ arm
 *** et
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:ANKI_NOTE_ID: 1675824616612
+:ANKI_NOTE_ID: 1675860537024
 :END:
 **** Front
-Words
+Words 1
 
 [[file:words/et.png]]
 **** Back
@@ -195,10 +195,10 @@ et
 *** eight
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:ANKI_NOTE_ID: 1675824616940
+:ANKI_NOTE_ID: 1675860537464
 :END:
 **** Front
-Words
+Words 1
 
 [[file:words/eight.png]]
 **** Back
@@ -206,10 +206,10 @@ eight
 *** itch
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:ANKI_NOTE_ID: 1675824617114
+:ANKI_NOTE_ID: 1675860537642
 :END:
 **** Front
-Words
+Words 1
 
 [[file:words/itch.png]]
 **** Back
@@ -217,10 +217,10 @@ itch
 *** each
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:ANKI_NOTE_ID: 1675824617361
+:ANKI_NOTE_ID: 1675860537899
 :END:
 **** Front
-Words
+Words 1
 
 [[file:words/each.png]]
 **** Back
@@ -228,10 +228,10 @@ each
 *** ooze
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:ANKI_NOTE_ID: 1675824617686
+:ANKI_NOTE_ID: 1675860538239
 :END:
 **** Front
-Words
+Words 1
 
 [[file:words/ooze.png]]
 **** Back
@@ -239,10 +239,10 @@ ooze
 *** use
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:ANKI_NOTE_ID: 1675824617879
+:ANKI_NOTE_ID: 1675860538469
 :END:
 **** Front
-Words
+Words 1
 
 [[file:words/use.png]]
 **** Back
@@ -250,10 +250,10 @@ use
 *** idle
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:ANKI_NOTE_ID: 1675824618061
+:ANKI_NOTE_ID: 1675860538643
 :END:
 **** Front
-Words
+Words 1
 
 [[file:words/idle.png]]
 **** Back
@@ -261,10 +261,10 @@ idle
 *** oid
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:ANKI_NOTE_ID: 1675824618361
+:ANKI_NOTE_ID: 1675860538840
 :END:
 **** Front
-Words
+Words 1
 
 [[file:words/oid.png]]
 **** Back
@@ -272,10 +272,10 @@ oid
 *** odd
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:ANKI_NOTE_ID: 1675824618560
+:ANKI_NOTE_ID: 1675860539222
 :END:
 **** Front
-Words
+Words 1
 
 [[file:words/odd.png]]
 **** Back
@@ -283,10 +283,10 @@ odd
 *** ode
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:ANKI_NOTE_ID: 1675824618737
+:ANKI_NOTE_ID: 1675860539464
 :END:
 **** Front
-Words
+Words 1
 
 [[file:words/ode.png]]
 **** Back
@@ -294,10 +294,10 @@ ode
 *** up
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:ANKI_NOTE_ID: 1675824618911
+:ANKI_NOTE_ID: 1675860539674
 :END:
 **** Front
-Words
+Words 1
 
 [[file:words/up.png]]
 **** Back
@@ -305,10 +305,10 @@ up
 *** out
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:ANKI_NOTE_ID: 1675824619265
+:ANKI_NOTE_ID: 1675860539989
 :END:
 **** Front
-Words
+Words 1
 
 [[file:words/out.png]]
 **** Back
@@ -316,10 +316,10 @@ out
 *** crate
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:ANKI_NOTE_ID: 1675824619440
+:ANKI_NOTE_ID: 1675860540189
 :END:
 **** Front
-Words
+Words 1
 
 [[file:words/crate.png]]
 **** Back
@@ -327,10 +327,10 @@ crate
 *** dazzle
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:ANKI_NOTE_ID: 1675824619611
+:ANKI_NOTE_ID: 1675860540368
 :END:
 **** Front
-Words
+Words 1
 
 [[file:words/dazzle.png]]
 **** Back
@@ -338,10 +338,10 @@ dazzle
 *** blot
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:ANKI_NOTE_ID: 1675824619965
+:ANKI_NOTE_ID: 1675860540695
 :END:
 **** Front
-Words
+Words 1
 
 [[file:words/blot.png]]
 **** Back
@@ -349,10 +349,10 @@ blot
 *** alphabet
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:ANKI_NOTE_ID: 1675824620166
+:ANKI_NOTE_ID: 1675860540895
 :END:
 **** Front
-Words
+Words 1
 
 [[file:words/alphabet.png]]
 **** Back
@@ -360,10 +360,10 @@ alphabet
 *** gilpin
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:ANKI_NOTE_ID: 1675824620486
+:ANKI_NOTE_ID: 1675860541099
 :END:
 **** Front
-Words
+Words 1
 
 [[file:words/gilpin.png]]
 **** Back
@@ -371,10 +371,10 @@ gilpin
 *** hatpin
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:ANKI_NOTE_ID: 1675824620838
+:ANKI_NOTE_ID: 1675860541468
 :END:
 **** Front
-Words
+Words 1
 
 [[file:words/hatpin.png]]
 **** Back
@@ -382,10 +382,10 @@ hatpin
 *** train
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:ANKI_NOTE_ID: 1675824621016
+:ANKI_NOTE_ID: 1675860541675
 :END:
 **** Front
-Words
+Words 1
 
 [[file:words/train.png]]
 **** Back
@@ -393,10 +393,10 @@ train
 *** glad
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:ANKI_NOTE_ID: 1675824621186
+:ANKI_NOTE_ID: 1675860541841
 :END:
 **** Front
-Words
+Words 1
 
 [[file:words/glad.png]]
 **** Back
@@ -404,10 +404,10 @@ glad
 *** trouble
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:ANKI_NOTE_ID: 1675824621490
+:ANKI_NOTE_ID: 1675860542119
 :END:
 **** Front
-Words
+Words 1
 
 [[file:words/trouble.png]]
 **** Back
@@ -415,10 +415,10 @@ trouble
 *** pat
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:ANKI_NOTE_ID: 1675824621736
+:ANKI_NOTE_ID: 1675860542375
 :END:
 **** Front
-Words
+Words 1
 
 [[file:words/pat.png]]
 **** Back
@@ -426,10 +426,10 @@ pat
 *** back
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:ANKI_NOTE_ID: 1675824621913
+:ANKI_NOTE_ID: 1675860542545
 :END:
 **** Front
-Words
+Words 1
 
 [[file:words/back.png]]
 **** Back
@@ -437,10 +437,10 @@ back
 *** mad
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:ANKI_NOTE_ID: 1675824622261
+:ANKI_NOTE_ID: 1675860542799
 :END:
 **** Front
-Words
+Words 1
 
 [[file:words/mad.png]]
 **** Back
@@ -448,10 +448,10 @@ mad
 *** catch
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:ANKI_NOTE_ID: 1675824622439
+:ANKI_NOTE_ID: 1675860543199
 :END:
 **** Front
-Words
+Words 1
 
 [[file:words/catch.png]]
 **** Back
@@ -459,10 +459,10 @@ catch
 *** man
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:ANKI_NOTE_ID: 1675824622611
+:ANKI_NOTE_ID: 1675860543400
 :END:
 **** Front
-Words
+Words 1
 
 [[file:words/man.png]]
 **** Back
@@ -470,10 +470,10 @@ man
 *** dash
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:ANKI_NOTE_ID: 1675824622914
+:ANKI_NOTE_ID: 1675860543639
 :END:
 **** Front
-Words
+Words 1
 
 [[file:words/dash.png]]
 **** Back
@@ -481,10 +481,10 @@ dash
 *** fat
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:ANKI_NOTE_ID: 1675824623140
+:ANKI_NOTE_ID: 1675860543966
 :END:
 **** Front
-Words
+Words 1
 
 [[file:words/fat.png]]
 **** Back
@@ -492,10 +492,10 @@ fat
 *** lath
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:ANKI_NOTE_ID: 1675824623315
+:ANKI_NOTE_ID: 1675860544165
 :END:
 **** Front
-Words
+Words 1
 
 [[file:words/lath.png]]
 **** Back
@@ -503,10 +503,10 @@ lath
 *** add
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:ANKI_NOTE_ID: 1675824623487
+:ANKI_NOTE_ID: 1675860544364
 :END:
 **** Front
-Words
+Words 1
 
 [[file:words/add.png]]
 **** Back
@@ -514,10 +514,10 @@ add
 *** ass
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:ANKI_NOTE_ID: 1675824623814
+:ANKI_NOTE_ID: 1675860544695
 :END:
 **** Front
-Words
+Words 1
 
 [[file:words/ass.png]]
 **** Back
@@ -525,10 +525,10 @@ ass
 *** addle
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:ANKI_NOTE_ID: 1675824624004
+:ANKI_NOTE_ID: 1675860544894
 :END:
 **** Front
-Words
+Words 1
 
 [[file:words/addle.png]]
 **** Back
@@ -536,10 +536,10 @@ addle
 *** debt
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:ANKI_NOTE_ID: 1675824624186
+:ANKI_NOTE_ID: 1675860545100
 :END:
 **** Front
-Words
+Words 1
 
 [[file:words/debt.png]]
 **** Back
@@ -547,10 +547,10 @@ debt
 *** neck
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:ANKI_NOTE_ID: 1675824624535
+:ANKI_NOTE_ID: 1675860545470
 :END:
 **** Front
-Words
+Words 1
 
 [[file:words/neck.png]]
 **** Back
@@ -558,10 +558,10 @@ neck
 *** dead
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:ANKI_NOTE_ID: 1675824624715
+:ANKI_NOTE_ID: 1675860545670
 :END:
 **** Front
-Words
+Words 1
 
 [[file:words/dead.png]]
 **** Back
@@ -569,10 +569,10 @@ dead
 *** death
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:ANKI_NOTE_ID: 1675824624886
+:ANKI_NOTE_ID: 1675860545924
 :END:
 **** Front
-Words
+Words 1
 
 [[file:words/death.png]]
 **** Back
@@ -580,10 +580,10 @@ death
 *** men
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:ANKI_NOTE_ID: 1675824625211
+:ANKI_NOTE_ID: 1675860546114
 :END:
 **** Front
-Words
+Words 1
 
 [[file:words/men.png]]
 **** Back
@@ -591,10 +591,10 @@ men
 *** leg
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:ANKI_NOTE_ID: 1675824625439
+:ANKI_NOTE_ID: 1675860546449
 :END:
 **** Front
-Words
+Words 1
 
 [[file:words/leg.png]]
 **** Back
@@ -602,10 +602,10 @@ leg
 *** guess
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:ANKI_NOTE_ID: 1675824625612
+:ANKI_NOTE_ID: 1675860546627
 :END:
 **** Front
-Words
+Words 1
 
 [[file:words/guess.png]]
 **** Back
@@ -613,10 +613,10 @@ guess
 *** check
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:ANKI_NOTE_ID: 1675824625912
+:ANKI_NOTE_ID: 1675860546791
 :END:
 **** Front
-Words
+Words 1
 
 [[file:words/check.png]]
 **** Back
@@ -624,10 +624,10 @@ check
 *** shed
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:ANKI_NOTE_ID: 1675824626136
+:ANKI_NOTE_ID: 1675860547073
 :END:
 **** Front
-Words
+Words 1
 
 [[file:words/shed.png]]
 **** Back
@@ -635,10 +635,10 @@ shed
 *** ebb
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:ANKI_NOTE_ID: 1675824626314
+:ANKI_NOTE_ID: 1675860547274
 :END:
 **** Front
-Words
+Words 1
 
 [[file:words/ebb.png]]
 **** Back
@@ -646,10 +646,10 @@ ebb
 *** edge
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:ANKI_NOTE_ID: 1675824626516
+:ANKI_NOTE_ID: 1675860547499
 :END:
 **** Front
-Words
+Words 1
 
 [[file:words/edge.png]]
 **** Back
@@ -657,10 +657,10 @@ edge
 *** egg
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:ANKI_NOTE_ID: 1675824626885
+:ANKI_NOTE_ID: 1675860547845
 :END:
 **** Front
-Words
+Words 1
 
 [[file:words/egg.png]]
 **** Back

@@ -1,0 +1,17 @@
+#+PROPERTY: ANKI_DECK OSS-Words-2
+
+* Stenoscript
+:PROPERTIES:
+:ANKI_DECK: OSS-Words-2
+:END:
+** Words
+*** cat
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 2
+
+[[file:words/cat.png]]
+**** Back
+cat
