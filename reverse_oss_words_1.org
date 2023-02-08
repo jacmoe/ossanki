@@ -1,0 +1,2307 @@
+#+PROPERTY: ANKI_DECK OSS-Words-1-Reverse
+
+* Stenoscript
+:PROPERTIES:
+:ANKI_DECK: OSS-Words-1-Reverse
+:END:
+** Words 1 - Reverse
+*** cat
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/cat.png]]
+**** Back
+cat
+*** calf
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/calf.png]]
+**** Back
+calf
+*** pet
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/pet.png]]
+**** Back
+pet
+*** pate
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/pate.png]]
+**** Back
+pate
+*** pitch
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/pitch.png]]
+**** Back
+pitch
+*** peach
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/peach.png]]
+**** Back
+peach
+*** loose
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/loose.png]]
+**** Back
+loose
+*** muse
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/muse.png]]
+**** Back
+muse
+*** side
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/side.png]]
+**** Back
+side
+*** void
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/void.png]]
+**** Back
+void
+*** cod
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/cod.png]]
+**** Back
+cod
+*** code
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/code.png]]
+**** Back
+code
+*** cup
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/cup.png]]
+**** Back
+cup
+*** doubt
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/doubt.png]]
+**** Back
+doubt
+*** at
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/at.png]]
+**** Back
+at
+*** arm
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/arm.png]]
+**** Back
+arm
+*** et
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/et.png]]
+**** Back
+et
+*** eight
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/eight.png]]
+**** Back
+eight
+*** itch
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/itch.png]]
+**** Back
+itch
+*** each
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/each.png]]
+**** Back
+each
+*** ooze
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/ooze.png]]
+**** Back
+ooze
+*** use
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/use.png]]
+**** Back
+use
+*** idle
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/idle.png]]
+**** Back
+idle
+*** oid
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/oid.png]]
+**** Back
+oid
+*** odd
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/odd.png]]
+**** Back
+odd
+*** ode
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/ode.png]]
+**** Back
+ode
+*** up
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/up.png]]
+**** Back
+up
+*** out
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/out.png]]
+**** Back
+out
+*** crate
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/crate.png]]
+**** Back
+crate
+*** dazzle
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/dazzle.png]]
+**** Back
+dazzle
+*** blot
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/blot.png]]
+**** Back
+blot
+*** alphabet
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/alphabet.png]]
+**** Back
+alphabet
+*** gilpin
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/gilpin.png]]
+**** Back
+gilpin
+*** hatpin
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/hatpin.png]]
+**** Back
+hatpin
+*** train
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/train.png]]
+**** Back
+train
+*** glad
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/glad.png]]
+**** Back
+glad
+*** trouble
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/trouble.png]]
+**** Back
+trouble
+*** pat
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/pat.png]]
+**** Back
+pat
+*** back
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/back.png]]
+**** Back
+back
+*** mad
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/mad.png]]
+**** Back
+mad
+*** catch
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/catch.png]]
+**** Back
+catch
+*** man
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/man.png]]
+**** Back
+man
+*** dash
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/dash.png]]
+**** Back
+dash
+*** fat
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/fat.png]]
+**** Back
+fat
+*** lath
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/lath.png]]
+**** Back
+lath
+*** add
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/add.png]]
+**** Back
+add
+*** ass
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/ass.png]]
+**** Back
+ass
+*** addle
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/addle.png]]
+**** Back
+addle
+*** debt
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/debt.png]]
+**** Back
+debt
+*** neck
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/neck.png]]
+**** Back
+neck
+*** dead
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/dead.png]]
+**** Back
+dead
+*** death
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/death.png]]
+**** Back
+death
+*** men
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/men.png]]
+**** Back
+men
+*** leg
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/leg.png]]
+**** Back
+leg
+*** guess
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/guess.png]]
+**** Back
+guess
+*** check
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/check.png]]
+**** Back
+check
+*** shed
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/shed.png]]
+**** Back
+shed
+*** ebb
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/ebb.png]]
+**** Back
+ebb
+*** edge
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/edge.png]]
+**** Back
+edge
+*** egg
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/egg.png]]
+**** Back
+egg
+*** date
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/date.png]]
+**** Back
+date
+*** rain
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/rain.png]]
+**** Back
+rain
+*** fame
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/fame.png]]
+**** Back
+fame
+*** shaise
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/shaise.png]]
+**** Back
+shaise
+*** pace
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/pace.png]]
+**** Back
+pace
+*** raise
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/raise.png]]
+**** Back
+raise
+*** race
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/race.png]]
+**** Back
+race
+*** pair
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/pair.png]]
+**** Back
+pair
+*** fair
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/fair.png]]
+**** Back
+fair
+*** aid
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/aid.png]]
+**** Back
+aid
+*** ape
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/ape.png]]
+**** Back
+ape
+*** ail
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/ail.png]]
+**** Back
+ail
+*** dip
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/dip.png]]
+**** Back
+dip
+*** rid
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/rid.png]]
+**** Back
+rid
+*** chip
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/chip.png]]
+**** Back
+chip
+*** live
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/live.png]]
+**** Back
+live
+*** gin
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/gin.png]]
+**** Back
+gin
+*** sick
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/sick.png]]
+**** Back
+sick
+*** big
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/big.png]]
+**** Back
+big
+*** thick
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/thick.png]]
+**** Back
+thick
+*** kiss
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/kiss.png]]
+**** Back
+kiss
+*** inn
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/inn.png]]
+**** Back
+inn
+*** ill
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/ill.png]]
+**** Back
+ill
+*** deep
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/deep.png]]
+**** Back
+deep
+*** read
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/read.png]]
+**** Back
+read
+*** cheap
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/cheap.png]]
+**** Back
+cheap
+*** leave
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/leave.png]]
+**** Back
+leave
+*** kneel
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/kneel.png]]
+**** Back
+kneel
+*** seek
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/seek.png]]
+**** Back
+seek
+*** neat
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/neat.png]]
+**** Back
+neat
+*** teeth
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/teeth.png]]
+**** Back
+teeth
+*** rear
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/rear.png]]
+**** Back
+rear
+*** eke
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/eke.png]]
+**** Back
+eke
+*** eat
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/eat.png]]
+**** Back
+eat
+*** bull
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/bull.png]]
+**** Back
+bull
+*** coop
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/coop.png]]
+**** Back
+coop
+*** move
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/move.png]]
+**** Back
+move
+*** tune
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/tune.png]]
+**** Back
+tune
+*** cute
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/cute.png]]
+**** Back
+cute
+*** deuce
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/deuce.png]]
+**** Back
+deuce
+*** mine
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/mine.png]]
+**** Back
+mine
+*** type
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/type.png]]
+**** Back
+type
+*** life
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/life.png]]
+**** Back
+life
+*** ice
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/ice.png]]
+**** Back
+ice
+*** join
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/join.png]]
+**** Back
+join
+*** coit
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/coit.png]]
+**** Back
+coit
+*** choice
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/choice.png]]
+**** Back
+choice
+*** soil
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/soil.png]]
+**** Back
+soil
+*** john
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/john.png]]
+**** Back
+john
+*** nod
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/nod.png]]
+**** Back
+nod
+*** dole
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/dole.png]]
+**** Back
+dole
+*** note
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/note.png]]
+**** Back
+note
+*** on
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/on.png]]
+**** Back
+on
+*** own
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/own.png]]
+**** Back
+own
+*** gull
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/gull.png]]
+**** Back
+gull
+*** cut
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/cut.png]]
+**** Back
+cut
+*** utter
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/utter.png]]
+**** Back
+utter
+*** foul
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/foul.png]]
+**** Back
+foul
+*** outer
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/outer.png]]
+**** Back
+outer
+*** ban
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/ban.png]]
+**** Back
+ban
+*** ben
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/ben.png]]
+**** Back
+ben
+*** bane
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/bane.png]]
+**** Back
+bane
+*** boon
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/boon.png]]
+**** Back
+boon
+*** bone
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/bone.png]]
+**** Back
+bone
+*** bun
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/bun.png]]
+**** Back
+bun
+*** pal
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/pal.png]]
+**** Back
+pal
+*** pool
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/pool.png]]
+**** Back
+pool
+*** doll
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/doll.png]]
+**** Back
+doll
+*** pill
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/pill.png]]
+**** Back
+pill
+*** pile
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/pile.png]]
+**** Back
+pile
+*** howl
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/howl.png]]
+**** Back
+howl
+*** isle
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/isle.png]]
+**** Back
+isle
+*** oil
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/oil.png]]
+**** Back
+oil
+*** dame
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/dame.png]]
+**** Back
+dame
+*** doom
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/doom.png]]
+**** Back
+doom
+*** dome
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/dome.png]]
+**** Back
+dome
+*** cough
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/cough.png]]
+**** Back
+cough
+*** off
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/off.png]]
+**** Back
+off
+*** paff
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/paff.png]]
+**** Back
+paff
+*** love
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/love.png]]
+**** Back
+love
+*** mace
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/mace.png]]
+**** Back
+mace
+*** mouse
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/mouse.png]]
+**** Back
+mouse
+*** pose
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/pose.png]]
+**** Back
+pose
+*** loaf
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/loaf.png]]
+**** Back
+loaf
+*** oath
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/oath.png]]
+**** Back
+oath
+*** roof
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/roof.png]]
+**** Back
+roof
+*** ripe
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/ripe.png]]
+**** Back
+ripe
+*** rate
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/rate.png]]
+**** Back
+rate
+*** rod
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/rod.png]]
+**** Back
+rod
+*** road
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/road.png]]
+**** Back
+road
+*** rough
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/rough.png]]
+**** Back
+rough
+*** hoot
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/hoot.png]]
+**** Back
+hoot
+*** hat
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/hat.png]]
+**** Back
+hat
+*** heat
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/heat.png]]
+**** Back
+heat
+*** hose
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/hose.png]]
+**** Back
+hose
+*** huge
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/huge.png]]
+**** Back
+huge
+*** poor
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/poor.png]]
+**** Back
+poor
+*** pure
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/pure.png]]
+**** Back
+pure
+*** sure
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/sure.png]]
+**** Back
+sure
+*** cure
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/cure.png]]
+**** Back
+cure
+*** ire
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/ire.png]]
+**** Back
+ire
+*** mire
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/mire.png]]
+**** Back
+mire
+*** tyre
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/tyre.png]]
+**** Back
+tyre
+*** or
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/or.png]]
+**** Back
+or
+*** door
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/door.png]]
+**** Back
+door
+*** tore
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/tore.png]]
+**** Back
+tore
+*** boar
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/boar.png]]
+**** Back
+boar
+*** sour
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/sour.png]]
+**** Back
+sour
+*** car
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/car.png]]
+**** Back
+car
+*** care
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/care.png]]
+**** Back
+care
+*** dear
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/dear.png]]
+**** Back
+dear
+*** cheer
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/cheer.png]]
+**** Back
+cheer
+*** fur
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/fur.png]]
+**** Back
+fur
+*** fir
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/fir.png]]
+**** Back
+fir
+*** per
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/per.png]]
+**** Back
+per
+*** purr
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/purr.png]]
+**** Back
+purr
+*** refer
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/refer.png]]
+**** Back
+refer
+*** heifer
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/heifer.png]]
+**** Back
+heifer
+*** verse
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/verse.png]]
+**** Back
+verse
+*** hearse
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/hearse.png]]
+**** Back
+hearse
+*** curse
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/curse.png]]
+**** Back
+curse
+*** reader
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/reader.png]]
+**** Back
+reader
+*** voucher
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/voucher.png]]
+**** Back
+voucher
+*** journal
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/journal.png]]
+**** Back
+journal
+*** jerk
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/jerk.png]]
+**** Back
+jerk
+*** urge
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/urge.png]]
+**** Back
+urge
+*** churl
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/churl.png]]
+**** Back
+churl
+*** pa
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/pa.png]]
+**** Back
+pa
+*** data
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/data.png]]
+**** Back
+data
+*** paw
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/paw.png]]
+**** Back
+paw
+*** tray
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/tray.png]]
+**** Back
+tray
+*** tree
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/tree.png]]
+**** Back
+tree
+*** foe
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/foe.png]]
+**** Back
+foe
+*** cow
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/cow.png]]
+**** Back
+cow
+*** coo
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/coo.png]]
+**** Back
+coo
+*** due
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/due.png]]
+**** Back
+due
+*** die
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/die.png]]
+**** Back
+die
+*** boy
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/boy.png]]
+**** Back
+boy
+*** naive
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/naive.png]]
+**** Back
+naive
+*** rawer
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/rawer.png]]
+**** Back
+rawer
+*** payer
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/payer.png]]
+**** Back
+payer
+*** period
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/period.png]]
+**** Back
+period
+*** theorem
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/theorem.png]]
+**** Back
+theorem
+*** poem
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/poem.png]]
+**** Back
+poem
+*** vowel
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/vowel.png]]
+**** Back
+vowel
+*** ruin
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/ruin.png]]
+**** Back
+ruin
+*** fuel
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/fuel.png]]
+**** Back
+fuel
+*** genuine
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/genuine.png]]
+**** Back
+genuine
+*** violate
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/violate.png]]
+**** Back
+violate
+*** riot
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/riot.png]]
+**** Back
+riot
+*** iota
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/iota.png]]
+**** Back
+iota
+*** royal
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/royal.png]]
+**** Back
+royal
+*** boyish
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/boyish.png]]
+**** Back
+boyish
+*** happy
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/happy.png]]
+**** Back
+happy
+*** ready
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/ready.png]]
+**** Back
+ready
+*** money
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/money.png]]
+**** Back
+money
+*** valley
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/valley.png]]
+**** Back
+valley
+*** degree
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/degree.png]]
+**** Back
+degree
+*** free
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/free.png]]
+**** Back
+free
+*** gee
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/gee.png]]
+**** Back
+gee
+*** key
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/key.png]]
+**** Back
+key
+*** pea
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/pea.png]]
+**** Back
+pea
+*** fee
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/fee.png]]
+**** Back
+fee
+*** area
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/area.png]]
+**** Back
+area
+*** mania
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/mania.png]]
+**** Back
+mania
+*** idea
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/idea.png]]
+**** Back
+idea
+*** messiah
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/messiah.png]]
+**** Back
+Messiah
+*** boa
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/boa.png]]
+**** Back
+boa
+*** folio
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/folio.png]]
+**** Back
+folio
+*** payee
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 1 Reverse
+
+[[file:words/payee.png]]
+**** Back
+payee
