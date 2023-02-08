@@ -2062,3 +2062,476 @@ Words 1
 [[file:words/churl.png]]
 **** Back
 churl
+*** pa
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675899877178
+:END:
+**** Front
+Words 1
+
+[[file:words/pa.png]]
+**** Back
+pa
+*** data
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675899877592
+:END:
+**** Front
+Words 1
+
+[[file:words/data.png]]
+**** Back
+data
+*** paw
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675899878370
+:END:
+**** Front
+Words 1
+
+[[file:words/paw.png]]
+**** Back
+paw
+*** tray
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675899878919
+:END:
+**** Front
+Words 1
+
+[[file:words/tray.png]]
+**** Back
+tray
+*** tree
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675899879295
+:END:
+**** Front
+Words 1
+
+[[file:words/tree.png]]
+**** Back
+tree
+*** foe
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675899879645
+:END:
+**** Front
+Words 1
+
+[[file:words/foe.png]]
+**** Back
+foe
+*** cow
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675899880101
+:END:
+**** Front
+Words 1
+
+[[file:words/cow.png]]
+**** Back
+cow
+*** coo
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675899880645
+:END:
+**** Front
+Words 1
+
+[[file:words/coo.png]]
+**** Back
+coo
+*** due
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675899881074
+:END:
+**** Front
+Words 1
+
+[[file:words/due.png]]
+**** Back
+due
+*** die
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675899881469
+:END:
+**** Front
+Words 1
+
+[[file:words/die.png]]
+**** Back
+die
+*** boy
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675899881899
+:END:
+**** Front
+Words 1
+
+[[file:words/boy.png]]
+**** Back
+boy
+*** naive
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675899882442
+:END:
+**** Front
+Words 1
+
+[[file:words/naive.png]]
+**** Back
+naive
+*** rawer
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675899882877
+:END:
+**** Front
+Words 1
+
+[[file:words/rawer.png]]
+**** Back
+rawer
+*** payer
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675899883266
+:END:
+**** Front
+Words 1
+
+[[file:words/payer.png]]
+**** Back
+payer
+*** period
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675899883680
+:END:
+**** Front
+Words 1
+
+[[file:words/period.png]]
+**** Back
+period
+*** theorem
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675899884194
+:END:
+**** Front
+Words 1
+
+[[file:words/theorem.png]]
+**** Back
+theorem
+*** poem
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675899884594
+:END:
+**** Front
+Words 1
+
+[[file:words/poem.png]]
+**** Back
+poem
+*** vowel
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675899884980
+:END:
+**** Front
+Words 1
+
+[[file:words/vowel.png]]
+**** Back
+vowel
+*** ruin
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675899885546
+:END:
+**** Front
+Words 1
+
+[[file:words/ruin.png]]
+**** Back
+ruin
+*** fuel
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675899885969
+:END:
+**** Front
+Words 1
+
+[[file:words/fuel.png]]
+**** Back
+fuel
+*** genuine
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675899886354
+:END:
+**** Front
+Words 1
+
+[[file:words/genuine.png]]
+**** Back
+genuine
+*** violate
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675899886719
+:END:
+**** Front
+Words 1
+
+[[file:words/violate.png]]
+**** Back
+violate
+*** riot
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675899887252
+:END:
+**** Front
+Words 1
+
+[[file:words/riot.png]]
+**** Back
+riot
+*** iota
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675899887644
+:END:
+**** Front
+Words 1
+
+[[file:words/iota.png]]
+**** Back
+iota
+*** royal
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675899888061
+:END:
+**** Front
+Words 1
+
+[[file:words/royal.png]]
+**** Back
+royal
+*** boyish
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675899888466
+:END:
+**** Front
+Words 1
+
+[[file:words/boyish.png]]
+**** Back
+boyish
+*** happy
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675900313968
+:END:
+**** Front
+Words 1
+
+[[file:words/happy.png]]
+**** Back
+happy
+*** ready
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675900314401
+:END:
+**** Front
+Words 1
+
+[[file:words/ready.png]]
+**** Back
+ready
+*** money
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675900314859
+:END:
+**** Front
+Words 1
+
+[[file:words/money.png]]
+**** Back
+money
+*** valley
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675900315331
+:END:
+**** Front
+Words 1
+
+[[file:words/valley.png]]
+**** Back
+valley
+*** degree
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675900315769
+:END:
+**** Front
+Words 1
+
+[[file:words/degree.png]]
+**** Back
+degree
+*** free
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675900316199
+:END:
+**** Front
+Words 1
+
+[[file:words/free.png]]
+**** Back
+free
+*** gee
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675900316650
+:END:
+**** Front
+Words 1
+
+[[file:words/gee.png]]
+**** Back
+gee
+*** key
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675900317075
+:END:
+**** Front
+Words 1
+
+[[file:words/key.png]]
+**** Back
+key
+*** pea
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675900317529
+:END:
+**** Front
+Words 1
+
+[[file:words/pea.png]]
+**** Back
+pea
+*** fee
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675900317950
+:END:
+**** Front
+Words 1
+
+[[file:words/fee.png]]
+**** Back
+fee
+*** area
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675900318543
+:END:
+**** Front
+Words 1
+
+[[file:words/area.png]]
+**** Back
+area
+*** mania
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675900319001
+:END:
+**** Front
+Words 1
+
+[[file:words/mania.png]]
+**** Back
+mania
+*** idea
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675900319470
+:END:
+**** Front
+Words 1
+
+[[file:words/idea.png]]
+**** Back
+idea
+*** messiah
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675900319905
+:END:
+**** Front
+Words 1
+
+[[file:words/messiah.png]]
+**** Back
+Messiah
+*** boa
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675900320278
+:END:
+**** Front
+Words 1
+
+[[file:words/boa.png]]
+**** Back
+boa
+*** folio
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675900322179
+:END:
+**** Front
+Words 1
+
+[[file:words/folio.png]]
+**** Back
+folio
+*** payee
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675900323725
+:END:
+**** Front
+Words 1
+
+[[file:words/payee.png]]
+**** Back
+payee
