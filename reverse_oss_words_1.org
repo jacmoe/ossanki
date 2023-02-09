@@ -12,9 +12,9 @@
 **** Front
 Words 1 Reverse
 
-[[file:words/cat.png]]
-**** Back
 cat
+**** Back
+[[file:words/cat.png]]
 *** calf
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -22,9 +22,9 @@ cat
 **** Front
 Words 1 Reverse
 
-[[file:words/calf.png]]
-**** Back
 calf
+**** Back
+[[file:words/calf.png]]
 *** pet
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -32,9 +32,9 @@ calf
 **** Front
 Words 1 Reverse
 
-[[file:words/pet.png]]
-**** Back
 pet
+**** Back
+[[file:words/pet.png]]
 *** pate
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -42,9 +42,9 @@ pet
 **** Front
 Words 1 Reverse
 
-[[file:words/pate.png]]
-**** Back
 pate
+**** Back
+[[file:words/pate.png]]
 *** pitch
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -52,9 +52,9 @@ pate
 **** Front
 Words 1 Reverse
 
-[[file:words/pitch.png]]
-**** Back
 pitch
+**** Back
+[[file:words/pitch.png]]
 *** peach
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -62,9 +62,9 @@ pitch
 **** Front
 Words 1 Reverse
 
-[[file:words/peach.png]]
-**** Back
 peach
+**** Back
+[[file:words/peach.png]]
 *** loose
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -72,9 +72,9 @@ peach
 **** Front
 Words 1 Reverse
 
-[[file:words/loose.png]]
-**** Back
 loose
+**** Back
+[[file:words/loose.png]]
 *** muse
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -82,9 +82,9 @@ loose
 **** Front
 Words 1 Reverse
 
-[[file:words/muse.png]]
-**** Back
 muse
+**** Back
+[[file:words/muse.png]]
 *** side
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -92,9 +92,9 @@ muse
 **** Front
 Words 1 Reverse
 
-[[file:words/side.png]]
-**** Back
 side
+**** Back
+[[file:words/side.png]]
 *** void
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -102,9 +102,9 @@ side
 **** Front
 Words 1 Reverse
 
-[[file:words/void.png]]
-**** Back
 void
+**** Back
+[[file:words/void.png]]
 *** cod
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -112,9 +112,9 @@ void
 **** Front
 Words 1 Reverse
 
-[[file:words/cod.png]]
-**** Back
 cod
+**** Back
+[[file:words/cod.png]]
 *** code
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -122,9 +122,9 @@ cod
 **** Front
 Words 1 Reverse
 
-[[file:words/code.png]]
-**** Back
 code
+**** Back
+[[file:words/code.png]]
 *** cup
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -132,9 +132,9 @@ code
 **** Front
 Words 1 Reverse
 
-[[file:words/cup.png]]
-**** Back
 cup
+**** Back
+[[file:words/cup.png]]
 *** doubt
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -142,9 +142,9 @@ cup
 **** Front
 Words 1 Reverse
 
-[[file:words/doubt.png]]
-**** Back
 doubt
+**** Back
+[[file:words/doubt.png]]
 *** at
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -152,9 +152,9 @@ doubt
 **** Front
 Words 1 Reverse
 
-[[file:words/at.png]]
-**** Back
 at
+**** Back
+[[file:words/at.png]]
 *** arm
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -162,9 +162,9 @@ at
 **** Front
 Words 1 Reverse
 
-[[file:words/arm.png]]
-**** Back
 arm
+**** Back
+[[file:words/arm.png]]
 *** et
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -172,9 +172,9 @@ arm
 **** Front
 Words 1 Reverse
 
-[[file:words/et.png]]
-**** Back
 et
+**** Back
+[[file:words/et.png]]
 *** eight
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -182,9 +182,9 @@ et
 **** Front
 Words 1 Reverse
 
-[[file:words/eight.png]]
-**** Back
 eight
+**** Back
+[[file:words/eight.png]]
 *** itch
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -192,9 +192,9 @@ eight
 **** Front
 Words 1 Reverse
 
-[[file:words/itch.png]]
-**** Back
 itch
+**** Back
+[[file:words/itch.png]]
 *** each
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -202,9 +202,9 @@ itch
 **** Front
 Words 1 Reverse
 
-[[file:words/each.png]]
-**** Back
 each
+**** Back
+[[file:words/each.png]]
 *** ooze
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -212,9 +212,9 @@ each
 **** Front
 Words 1 Reverse
 
-[[file:words/ooze.png]]
-**** Back
 ooze
+**** Back
+[[file:words/ooze.png]]
 *** use
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -222,9 +222,9 @@ ooze
 **** Front
 Words 1 Reverse
 
-[[file:words/use.png]]
-**** Back
 use
+**** Back
+[[file:words/use.png]]
 *** idle
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -232,9 +232,9 @@ use
 **** Front
 Words 1 Reverse
 
-[[file:words/idle.png]]
-**** Back
 idle
+**** Back
+[[file:words/idle.png]]
 *** oid
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -242,9 +242,9 @@ idle
 **** Front
 Words 1 Reverse
 
-[[file:words/oid.png]]
-**** Back
 oid
+**** Back
+[[file:words/oid.png]]
 *** odd
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -252,9 +252,9 @@ oid
 **** Front
 Words 1 Reverse
 
-[[file:words/odd.png]]
-**** Back
 odd
+**** Back
+[[file:words/odd.png]]
 *** ode
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -262,9 +262,9 @@ odd
 **** Front
 Words 1 Reverse
 
-[[file:words/ode.png]]
-**** Back
 ode
+**** Back
+[[file:words/ode.png]]
 *** up
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -272,9 +272,9 @@ ode
 **** Front
 Words 1 Reverse
 
-[[file:words/up.png]]
-**** Back
 up
+**** Back
+[[file:words/up.png]]
 *** out
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -282,9 +282,9 @@ up
 **** Front
 Words 1 Reverse
 
-[[file:words/out.png]]
-**** Back
 out
+**** Back
+[[file:words/out.png]]
 *** crate
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -292,9 +292,9 @@ out
 **** Front
 Words 1 Reverse
 
-[[file:words/crate.png]]
-**** Back
 crate
+**** Back
+[[file:words/crate.png]]
 *** dazzle
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -302,9 +302,9 @@ crate
 **** Front
 Words 1 Reverse
 
-[[file:words/dazzle.png]]
-**** Back
 dazzle
+**** Back
+[[file:words/dazzle.png]]
 *** blot
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -312,9 +312,9 @@ dazzle
 **** Front
 Words 1 Reverse
 
-[[file:words/blot.png]]
-**** Back
 blot
+**** Back
+[[file:words/blot.png]]
 *** alphabet
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -322,9 +322,9 @@ blot
 **** Front
 Words 1 Reverse
 
-[[file:words/alphabet.png]]
-**** Back
 alphabet
+**** Back
+[[file:words/alphabet.png]]
 *** gilpin
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -332,9 +332,9 @@ alphabet
 **** Front
 Words 1 Reverse
 
-[[file:words/gilpin.png]]
-**** Back
 gilpin
+**** Back
+[[file:words/gilpin.png]]
 *** hatpin
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -342,9 +342,9 @@ gilpin
 **** Front
 Words 1 Reverse
 
-[[file:words/hatpin.png]]
-**** Back
 hatpin
+**** Back
+[[file:words/hatpin.png]]
 *** train
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -352,9 +352,9 @@ hatpin
 **** Front
 Words 1 Reverse
 
-[[file:words/train.png]]
-**** Back
 train
+**** Back
+[[file:words/train.png]]
 *** glad
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -362,9 +362,9 @@ train
 **** Front
 Words 1 Reverse
 
-[[file:words/glad.png]]
-**** Back
 glad
+**** Back
+[[file:words/glad.png]]
 *** trouble
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -372,9 +372,9 @@ glad
 **** Front
 Words 1 Reverse
 
-[[file:words/trouble.png]]
-**** Back
 trouble
+**** Back
+[[file:words/trouble.png]]
 *** pat
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -382,9 +382,9 @@ trouble
 **** Front
 Words 1 Reverse
 
-[[file:words/pat.png]]
-**** Back
 pat
+**** Back
+[[file:words/pat.png]]
 *** back
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -392,9 +392,9 @@ pat
 **** Front
 Words 1 Reverse
 
-[[file:words/back.png]]
-**** Back
 back
+**** Back
+[[file:words/back.png]]
 *** mad
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -402,9 +402,9 @@ back
 **** Front
 Words 1 Reverse
 
-[[file:words/mad.png]]
-**** Back
 mad
+**** Back
+[[file:words/mad.png]]
 *** catch
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -412,9 +412,9 @@ mad
 **** Front
 Words 1 Reverse
 
-[[file:words/catch.png]]
-**** Back
 catch
+**** Back
+[[file:words/catch.png]]
 *** man
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -422,9 +422,9 @@ catch
 **** Front
 Words 1 Reverse
 
-[[file:words/man.png]]
-**** Back
 man
+**** Back
+[[file:words/man.png]]
 *** dash
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -432,9 +432,9 @@ man
 **** Front
 Words 1 Reverse
 
-[[file:words/dash.png]]
-**** Back
 dash
+**** Back
+[[file:words/dash.png]]
 *** fat
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -442,9 +442,9 @@ dash
 **** Front
 Words 1 Reverse
 
-[[file:words/fat.png]]
-**** Back
 fat
+**** Back
+[[file:words/fat.png]]
 *** lath
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -452,9 +452,9 @@ fat
 **** Front
 Words 1 Reverse
 
-[[file:words/lath.png]]
-**** Back
 lath
+**** Back
+[[file:words/lath.png]]
 *** add
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -462,9 +462,9 @@ lath
 **** Front
 Words 1 Reverse
 
-[[file:words/add.png]]
-**** Back
 add
+**** Back
+[[file:words/add.png]]
 *** ass
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -472,9 +472,9 @@ add
 **** Front
 Words 1 Reverse
 
-[[file:words/ass.png]]
-**** Back
 ass
+**** Back
+[[file:words/ass.png]]
 *** addle
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -482,9 +482,9 @@ ass
 **** Front
 Words 1 Reverse
 
-[[file:words/addle.png]]
-**** Back
 addle
+**** Back
+[[file:words/addle.png]]
 *** debt
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -492,9 +492,9 @@ addle
 **** Front
 Words 1 Reverse
 
-[[file:words/debt.png]]
-**** Back
 debt
+**** Back
+[[file:words/debt.png]]
 *** neck
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -502,9 +502,9 @@ debt
 **** Front
 Words 1 Reverse
 
-[[file:words/neck.png]]
-**** Back
 neck
+**** Back
+[[file:words/neck.png]]
 *** dead
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -512,9 +512,9 @@ neck
 **** Front
 Words 1 Reverse
 
-[[file:words/dead.png]]
-**** Back
 dead
+**** Back
+[[file:words/dead.png]]
 *** death
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -522,9 +522,9 @@ dead
 **** Front
 Words 1 Reverse
 
-[[file:words/death.png]]
-**** Back
 death
+**** Back
+[[file:words/death.png]]
 *** men
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -532,9 +532,9 @@ death
 **** Front
 Words 1 Reverse
 
-[[file:words/men.png]]
-**** Back
 men
+**** Back
+[[file:words/men.png]]
 *** leg
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -542,9 +542,9 @@ men
 **** Front
 Words 1 Reverse
 
-[[file:words/leg.png]]
-**** Back
 leg
+**** Back
+[[file:words/leg.png]]
 *** guess
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -552,9 +552,9 @@ leg
 **** Front
 Words 1 Reverse
 
-[[file:words/guess.png]]
-**** Back
 guess
+**** Back
+[[file:words/guess.png]]
 *** check
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -562,9 +562,9 @@ guess
 **** Front
 Words 1 Reverse
 
-[[file:words/check.png]]
-**** Back
 check
+**** Back
+[[file:words/check.png]]
 *** shed
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -572,9 +572,9 @@ check
 **** Front
 Words 1 Reverse
 
-[[file:words/shed.png]]
-**** Back
 shed
+**** Back
+[[file:words/shed.png]]
 *** ebb
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -582,9 +582,9 @@ shed
 **** Front
 Words 1 Reverse
 
-[[file:words/ebb.png]]
-**** Back
 ebb
+**** Back
+[[file:words/ebb.png]]
 *** edge
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -592,9 +592,9 @@ ebb
 **** Front
 Words 1 Reverse
 
-[[file:words/edge.png]]
-**** Back
 edge
+**** Back
+[[file:words/edge.png]]
 *** egg
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -602,9 +602,9 @@ edge
 **** Front
 Words 1 Reverse
 
-[[file:words/egg.png]]
-**** Back
 egg
+**** Back
+[[file:words/egg.png]]
 *** date
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -612,9 +612,9 @@ egg
 **** Front
 Words 1 Reverse
 
-[[file:words/date.png]]
-**** Back
 date
+**** Back
+[[file:words/date.png]]
 *** rain
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -622,9 +622,9 @@ date
 **** Front
 Words 1 Reverse
 
-[[file:words/rain.png]]
-**** Back
 rain
+**** Back
+[[file:words/rain.png]]
 *** fame
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -632,9 +632,9 @@ rain
 **** Front
 Words 1 Reverse
 
-[[file:words/fame.png]]
-**** Back
 fame
+**** Back
+[[file:words/fame.png]]
 *** shaise
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -642,9 +642,9 @@ fame
 **** Front
 Words 1 Reverse
 
-[[file:words/shaise.png]]
-**** Back
 shaise
+**** Back
+[[file:words/shaise.png]]
 *** pace
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -652,9 +652,9 @@ shaise
 **** Front
 Words 1 Reverse
 
-[[file:words/pace.png]]
-**** Back
 pace
+**** Back
+[[file:words/pace.png]]
 *** raise
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -662,9 +662,9 @@ pace
 **** Front
 Words 1 Reverse
 
-[[file:words/raise.png]]
-**** Back
 raise
+**** Back
+[[file:words/raise.png]]
 *** race
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -672,9 +672,9 @@ raise
 **** Front
 Words 1 Reverse
 
-[[file:words/race.png]]
-**** Back
 race
+**** Back
+[[file:words/race.png]]
 *** pair
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -682,9 +682,9 @@ race
 **** Front
 Words 1 Reverse
 
-[[file:words/pair.png]]
-**** Back
 pair
+**** Back
+[[file:words/pair.png]]
 *** fair
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -692,9 +692,9 @@ pair
 **** Front
 Words 1 Reverse
 
-[[file:words/fair.png]]
-**** Back
 fair
+**** Back
+[[file:words/fair.png]]
 *** aid
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -702,9 +702,9 @@ fair
 **** Front
 Words 1 Reverse
 
-[[file:words/aid.png]]
-**** Back
 aid
+**** Back
+[[file:words/aid.png]]
 *** ape
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -712,9 +712,9 @@ aid
 **** Front
 Words 1 Reverse
 
-[[file:words/ape.png]]
-**** Back
 ape
+**** Back
+[[file:words/ape.png]]
 *** ail
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -722,9 +722,9 @@ ape
 **** Front
 Words 1 Reverse
 
-[[file:words/ail.png]]
-**** Back
 ail
+**** Back
+[[file:words/ail.png]]
 *** dip
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -732,9 +732,9 @@ ail
 **** Front
 Words 1 Reverse
 
-[[file:words/dip.png]]
-**** Back
 dip
+**** Back
+[[file:words/dip.png]]
 *** rid
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -742,9 +742,9 @@ dip
 **** Front
 Words 1 Reverse
 
-[[file:words/rid.png]]
-**** Back
 rid
+**** Back
+[[file:words/rid.png]]
 *** chip
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -752,9 +752,9 @@ rid
 **** Front
 Words 1 Reverse
 
-[[file:words/chip.png]]
-**** Back
 chip
+**** Back
+[[file:words/chip.png]]
 *** live
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -762,9 +762,9 @@ chip
 **** Front
 Words 1 Reverse
 
-[[file:words/live.png]]
-**** Back
 live
+**** Back
+[[file:words/live.png]]
 *** gin
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -772,9 +772,9 @@ live
 **** Front
 Words 1 Reverse
 
-[[file:words/gin.png]]
-**** Back
 gin
+**** Back
+[[file:words/gin.png]]
 *** sick
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -782,9 +782,9 @@ gin
 **** Front
 Words 1 Reverse
 
-[[file:words/sick.png]]
-**** Back
 sick
+**** Back
+[[file:words/sick.png]]
 *** big
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -792,9 +792,9 @@ sick
 **** Front
 Words 1 Reverse
 
-[[file:words/big.png]]
-**** Back
 big
+**** Back
+[[file:words/big.png]]
 *** thick
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -802,9 +802,9 @@ big
 **** Front
 Words 1 Reverse
 
-[[file:words/thick.png]]
-**** Back
 thick
+**** Back
+[[file:words/thick.png]]
 *** kiss
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -812,9 +812,9 @@ thick
 **** Front
 Words 1 Reverse
 
-[[file:words/kiss.png]]
-**** Back
 kiss
+**** Back
+[[file:words/kiss.png]]
 *** inn
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -822,9 +822,9 @@ kiss
 **** Front
 Words 1 Reverse
 
-[[file:words/inn.png]]
-**** Back
 inn
+**** Back
+[[file:words/inn.png]]
 *** ill
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -832,9 +832,9 @@ inn
 **** Front
 Words 1 Reverse
 
-[[file:words/ill.png]]
-**** Back
 ill
+**** Back
+[[file:words/ill.png]]
 *** deep
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -842,9 +842,9 @@ ill
 **** Front
 Words 1 Reverse
 
-[[file:words/deep.png]]
-**** Back
 deep
+**** Back
+[[file:words/deep.png]]
 *** read
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -852,9 +852,9 @@ deep
 **** Front
 Words 1 Reverse
 
-[[file:words/read.png]]
-**** Back
 read
+**** Back
+[[file:words/read.png]]
 *** cheap
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -862,9 +862,9 @@ read
 **** Front
 Words 1 Reverse
 
-[[file:words/cheap.png]]
-**** Back
 cheap
+**** Back
+[[file:words/cheap.png]]
 *** leave
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -872,9 +872,9 @@ cheap
 **** Front
 Words 1 Reverse
 
-[[file:words/leave.png]]
-**** Back
 leave
+**** Back
+[[file:words/leave.png]]
 *** kneel
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -882,9 +882,9 @@ leave
 **** Front
 Words 1 Reverse
 
-[[file:words/kneel.png]]
-**** Back
 kneel
+**** Back
+[[file:words/kneel.png]]
 *** seek
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -892,9 +892,9 @@ kneel
 **** Front
 Words 1 Reverse
 
-[[file:words/seek.png]]
-**** Back
 seek
+**** Back
+[[file:words/seek.png]]
 *** neat
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -902,9 +902,9 @@ seek
 **** Front
 Words 1 Reverse
 
-[[file:words/neat.png]]
-**** Back
 neat
+**** Back
+[[file:words/neat.png]]
 *** teeth
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -912,9 +912,9 @@ neat
 **** Front
 Words 1 Reverse
 
-[[file:words/teeth.png]]
-**** Back
 teeth
+**** Back
+[[file:words/teeth.png]]
 *** rear
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -922,9 +922,9 @@ teeth
 **** Front
 Words 1 Reverse
 
-[[file:words/rear.png]]
-**** Back
 rear
+**** Back
+[[file:words/rear.png]]
 *** eke
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -932,9 +932,9 @@ rear
 **** Front
 Words 1 Reverse
 
-[[file:words/eke.png]]
-**** Back
 eke
+**** Back
+[[file:words/eke.png]]
 *** eat
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -942,9 +942,9 @@ eke
 **** Front
 Words 1 Reverse
 
-[[file:words/eat.png]]
-**** Back
 eat
+**** Back
+[[file:words/eat.png]]
 *** bull
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -952,9 +952,9 @@ eat
 **** Front
 Words 1 Reverse
 
-[[file:words/bull.png]]
-**** Back
 bull
+**** Back
+[[file:words/bull.png]]
 *** coop
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -962,9 +962,9 @@ bull
 **** Front
 Words 1 Reverse
 
-[[file:words/coop.png]]
-**** Back
 coop
+**** Back
+[[file:words/coop.png]]
 *** move
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -972,9 +972,9 @@ coop
 **** Front
 Words 1 Reverse
 
-[[file:words/move.png]]
-**** Back
 move
+**** Back
+[[file:words/move.png]]
 *** tune
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -982,9 +982,9 @@ move
 **** Front
 Words 1 Reverse
 
-[[file:words/tune.png]]
-**** Back
 tune
+**** Back
+[[file:words/tune.png]]
 *** cute
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -992,9 +992,9 @@ tune
 **** Front
 Words 1 Reverse
 
-[[file:words/cute.png]]
-**** Back
 cute
+**** Back
+[[file:words/cute.png]]
 *** deuce
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -1002,9 +1002,9 @@ cute
 **** Front
 Words 1 Reverse
 
-[[file:words/deuce.png]]
-**** Back
 deuce
+**** Back
+[[file:words/deuce.png]]
 *** mine
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -1012,9 +1012,9 @@ deuce
 **** Front
 Words 1 Reverse
 
-[[file:words/mine.png]]
-**** Back
 mine
+**** Back
+[[file:words/mine.png]]
 *** type
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -1022,9 +1022,9 @@ mine
 **** Front
 Words 1 Reverse
 
-[[file:words/type.png]]
-**** Back
 type
+**** Back
+[[file:words/type.png]]
 *** life
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -1032,9 +1032,9 @@ type
 **** Front
 Words 1 Reverse
 
-[[file:words/life.png]]
-**** Back
 life
+**** Back
+[[file:words/life.png]]
 *** ice
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -1042,9 +1042,9 @@ life
 **** Front
 Words 1 Reverse
 
-[[file:words/ice.png]]
-**** Back
 ice
+**** Back
+[[file:words/ice.png]]
 *** join
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -1052,9 +1052,9 @@ ice
 **** Front
 Words 1 Reverse
 
-[[file:words/join.png]]
-**** Back
 join
+**** Back
+[[file:words/join.png]]
 *** coit
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -1062,9 +1062,9 @@ join
 **** Front
 Words 1 Reverse
 
-[[file:words/coit.png]]
-**** Back
 coit
+**** Back
+[[file:words/coit.png]]
 *** choice
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -1072,9 +1072,9 @@ coit
 **** Front
 Words 1 Reverse
 
-[[file:words/choice.png]]
-**** Back
 choice
+**** Back
+[[file:words/choice.png]]
 *** soil
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -1082,9 +1082,9 @@ choice
 **** Front
 Words 1 Reverse
 
-[[file:words/soil.png]]
-**** Back
 soil
+**** Back
+[[file:words/soil.png]]
 *** john
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -1092,9 +1092,9 @@ soil
 **** Front
 Words 1 Reverse
 
-[[file:words/john.png]]
-**** Back
 john
+**** Back
+[[file:words/john.png]]
 *** nod
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -1102,9 +1102,9 @@ john
 **** Front
 Words 1 Reverse
 
-[[file:words/nod.png]]
-**** Back
 nod
+**** Back
+[[file:words/nod.png]]
 *** dole
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -1112,9 +1112,9 @@ nod
 **** Front
 Words 1 Reverse
 
-[[file:words/dole.png]]
-**** Back
 dole
+**** Back
+[[file:words/dole.png]]
 *** note
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -1122,9 +1122,9 @@ dole
 **** Front
 Words 1 Reverse
 
-[[file:words/note.png]]
-**** Back
 note
+**** Back
+[[file:words/note.png]]
 *** on
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -1132,9 +1132,9 @@ note
 **** Front
 Words 1 Reverse
 
-[[file:words/on.png]]
-**** Back
 on
+**** Back
+[[file:words/on.png]]
 *** own
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -1142,9 +1142,9 @@ on
 **** Front
 Words 1 Reverse
 
-[[file:words/own.png]]
-**** Back
 own
+**** Back
+[[file:words/own.png]]
 *** gull
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -1152,9 +1152,9 @@ own
 **** Front
 Words 1 Reverse
 
-[[file:words/gull.png]]
-**** Back
 gull
+**** Back
+[[file:words/gull.png]]
 *** cut
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -1162,9 +1162,9 @@ gull
 **** Front
 Words 1 Reverse
 
-[[file:words/cut.png]]
-**** Back
 cut
+**** Back
+[[file:words/cut.png]]
 *** utter
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -1172,9 +1172,9 @@ cut
 **** Front
 Words 1 Reverse
 
-[[file:words/utter.png]]
-**** Back
 utter
+**** Back
+[[file:words/utter.png]]
 *** foul
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -1182,9 +1182,9 @@ utter
 **** Front
 Words 1 Reverse
 
-[[file:words/foul.png]]
-**** Back
 foul
+**** Back
+[[file:words/foul.png]]
 *** outer
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -1192,9 +1192,9 @@ foul
 **** Front
 Words 1 Reverse
 
-[[file:words/outer.png]]
-**** Back
 outer
+**** Back
+[[file:words/outer.png]]
 *** ban
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -1202,9 +1202,9 @@ outer
 **** Front
 Words 1 Reverse
 
-[[file:words/ban.png]]
-**** Back
 ban
+**** Back
+[[file:words/ban.png]]
 *** ben
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -1212,9 +1212,9 @@ ban
 **** Front
 Words 1 Reverse
 
-[[file:words/ben.png]]
-**** Back
 ben
+**** Back
+[[file:words/ben.png]]
 *** bane
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -1222,9 +1222,9 @@ ben
 **** Front
 Words 1 Reverse
 
-[[file:words/bane.png]]
-**** Back
 bane
+**** Back
+[[file:words/bane.png]]
 *** boon
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -1232,9 +1232,9 @@ bane
 **** Front
 Words 1 Reverse
 
-[[file:words/boon.png]]
-**** Back
 boon
+**** Back
+[[file:words/boon.png]]
 *** bone
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -1242,9 +1242,9 @@ boon
 **** Front
 Words 1 Reverse
 
-[[file:words/bone.png]]
-**** Back
 bone
+**** Back
+[[file:words/bone.png]]
 *** bun
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -1252,9 +1252,9 @@ bone
 **** Front
 Words 1 Reverse
 
-[[file:words/bun.png]]
-**** Back
 bun
+**** Back
+[[file:words/bun.png]]
 *** pal
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -1262,9 +1262,9 @@ bun
 **** Front
 Words 1 Reverse
 
-[[file:words/pal.png]]
-**** Back
 pal
+**** Back
+[[file:words/pal.png]]
 *** pool
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -1272,9 +1272,9 @@ pal
 **** Front
 Words 1 Reverse
 
-[[file:words/pool.png]]
-**** Back
 pool
+**** Back
+[[file:words/pool.png]]
 *** doll
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -1282,9 +1282,9 @@ pool
 **** Front
 Words 1 Reverse
 
-[[file:words/doll.png]]
-**** Back
 doll
+**** Back
+[[file:words/doll.png]]
 *** pill
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -1292,9 +1292,9 @@ doll
 **** Front
 Words 1 Reverse
 
-[[file:words/pill.png]]
-**** Back
 pill
+**** Back
+[[file:words/pill.png]]
 *** pile
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -1302,9 +1302,9 @@ pill
 **** Front
 Words 1 Reverse
 
-[[file:words/pile.png]]
-**** Back
 pile
+**** Back
+[[file:words/pile.png]]
 *** howl
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -1312,9 +1312,9 @@ pile
 **** Front
 Words 1 Reverse
 
-[[file:words/howl.png]]
-**** Back
 howl
+**** Back
+[[file:words/howl.png]]
 *** isle
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -1322,9 +1322,9 @@ howl
 **** Front
 Words 1 Reverse
 
-[[file:words/isle.png]]
-**** Back
 isle
+**** Back
+[[file:words/isle.png]]
 *** oil
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -1332,9 +1332,9 @@ isle
 **** Front
 Words 1 Reverse
 
-[[file:words/oil.png]]
-**** Back
 oil
+**** Back
+[[file:words/oil.png]]
 *** dame
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -1342,9 +1342,9 @@ oil
 **** Front
 Words 1 Reverse
 
-[[file:words/dame.png]]
-**** Back
 dame
+**** Back
+[[file:words/dame.png]]
 *** doom
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -1352,9 +1352,9 @@ dame
 **** Front
 Words 1 Reverse
 
-[[file:words/doom.png]]
-**** Back
 doom
+**** Back
+[[file:words/doom.png]]
 *** dome
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -1362,9 +1362,9 @@ doom
 **** Front
 Words 1 Reverse
 
-[[file:words/dome.png]]
-**** Back
 dome
+**** Back
+[[file:words/dome.png]]
 *** cough
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -1372,9 +1372,9 @@ dome
 **** Front
 Words 1 Reverse
 
-[[file:words/cough.png]]
-**** Back
 cough
+**** Back
+[[file:words/cough.png]]
 *** off
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -1382,9 +1382,9 @@ cough
 **** Front
 Words 1 Reverse
 
-[[file:words/off.png]]
-**** Back
 off
+**** Back
+[[file:words/off.png]]
 *** paff
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -1392,9 +1392,9 @@ off
 **** Front
 Words 1 Reverse
 
-[[file:words/paff.png]]
-**** Back
 paff
+**** Back
+[[file:words/paff.png]]
 *** love
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -1402,9 +1402,9 @@ paff
 **** Front
 Words 1 Reverse
 
-[[file:words/love.png]]
-**** Back
 love
+**** Back
+[[file:words/love.png]]
 *** mace
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -1412,9 +1412,9 @@ love
 **** Front
 Words 1 Reverse
 
-[[file:words/mace.png]]
-**** Back
 mace
+**** Back
+[[file:words/mace.png]]
 *** mouse
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -1422,9 +1422,9 @@ mace
 **** Front
 Words 1 Reverse
 
-[[file:words/mouse.png]]
-**** Back
 mouse
+**** Back
+[[file:words/mouse.png]]
 *** pose
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -1432,9 +1432,9 @@ mouse
 **** Front
 Words 1 Reverse
 
-[[file:words/pose.png]]
-**** Back
 pose
+**** Back
+[[file:words/pose.png]]
 *** loaf
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -1442,9 +1442,9 @@ pose
 **** Front
 Words 1 Reverse
 
-[[file:words/loaf.png]]
-**** Back
 loaf
+**** Back
+[[file:words/loaf.png]]
 *** oath
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -1452,9 +1452,9 @@ loaf
 **** Front
 Words 1 Reverse
 
-[[file:words/oath.png]]
-**** Back
 oath
+**** Back
+[[file:words/oath.png]]
 *** roof
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -1462,9 +1462,9 @@ oath
 **** Front
 Words 1 Reverse
 
-[[file:words/roof.png]]
-**** Back
 roof
+**** Back
+[[file:words/roof.png]]
 *** ripe
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -1472,9 +1472,9 @@ roof
 **** Front
 Words 1 Reverse
 
-[[file:words/ripe.png]]
-**** Back
 ripe
+**** Back
+[[file:words/ripe.png]]
 *** rate
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -1482,9 +1482,9 @@ ripe
 **** Front
 Words 1 Reverse
 
-[[file:words/rate.png]]
-**** Back
 rate
+**** Back
+[[file:words/rate.png]]
 *** rod
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -1492,9 +1492,9 @@ rate
 **** Front
 Words 1 Reverse
 
-[[file:words/rod.png]]
-**** Back
 rod
+**** Back
+[[file:words/rod.png]]
 *** road
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -1502,9 +1502,9 @@ rod
 **** Front
 Words 1 Reverse
 
-[[file:words/road.png]]
-**** Back
 road
+**** Back
+[[file:words/road.png]]
 *** rough
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -1512,9 +1512,9 @@ road
 **** Front
 Words 1 Reverse
 
-[[file:words/rough.png]]
-**** Back
 rough
+**** Back
+[[file:words/rough.png]]
 *** hoot
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -1522,9 +1522,9 @@ rough
 **** Front
 Words 1 Reverse
 
-[[file:words/hoot.png]]
-**** Back
 hoot
+**** Back
+[[file:words/hoot.png]]
 *** hat
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -1532,9 +1532,9 @@ hoot
 **** Front
 Words 1 Reverse
 
-[[file:words/hat.png]]
-**** Back
 hat
+**** Back
+[[file:words/hat.png]]
 *** heat
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -1542,9 +1542,9 @@ hat
 **** Front
 Words 1 Reverse
 
-[[file:words/heat.png]]
-**** Back
 heat
+**** Back
+[[file:words/heat.png]]
 *** hose
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -1552,9 +1552,9 @@ heat
 **** Front
 Words 1 Reverse
 
-[[file:words/hose.png]]
-**** Back
 hose
+**** Back
+[[file:words/hose.png]]
 *** huge
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -1562,9 +1562,9 @@ hose
 **** Front
 Words 1 Reverse
 
-[[file:words/huge.png]]
-**** Back
 huge
+**** Back
+[[file:words/huge.png]]
 *** poor
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -1572,9 +1572,9 @@ huge
 **** Front
 Words 1 Reverse
 
-[[file:words/poor.png]]
-**** Back
 poor
+**** Back
+[[file:words/poor.png]]
 *** pure
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -1582,9 +1582,9 @@ poor
 **** Front
 Words 1 Reverse
 
-[[file:words/pure.png]]
-**** Back
 pure
+**** Back
+[[file:words/pure.png]]
 *** sure
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -1592,9 +1592,9 @@ pure
 **** Front
 Words 1 Reverse
 
-[[file:words/sure.png]]
-**** Back
 sure
+**** Back
+[[file:words/sure.png]]
 *** cure
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -1602,9 +1602,9 @@ sure
 **** Front
 Words 1 Reverse
 
-[[file:words/cure.png]]
-**** Back
 cure
+**** Back
+[[file:words/cure.png]]
 *** ire
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -1612,9 +1612,9 @@ cure
 **** Front
 Words 1 Reverse
 
-[[file:words/ire.png]]
-**** Back
 ire
+**** Back
+[[file:words/ire.png]]
 *** mire
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -1622,9 +1622,9 @@ ire
 **** Front
 Words 1 Reverse
 
-[[file:words/mire.png]]
-**** Back
 mire
+**** Back
+[[file:words/mire.png]]
 *** tyre
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -1632,9 +1632,9 @@ mire
 **** Front
 Words 1 Reverse
 
-[[file:words/tyre.png]]
-**** Back
 tyre
+**** Back
+[[file:words/tyre.png]]
 *** or
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -1642,9 +1642,9 @@ tyre
 **** Front
 Words 1 Reverse
 
-[[file:words/or.png]]
-**** Back
 or
+**** Back
+[[file:words/or.png]]
 *** door
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -1652,9 +1652,9 @@ or
 **** Front
 Words 1 Reverse
 
-[[file:words/door.png]]
-**** Back
 door
+**** Back
+[[file:words/door.png]]
 *** tore
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -1662,9 +1662,9 @@ door
 **** Front
 Words 1 Reverse
 
-[[file:words/tore.png]]
-**** Back
 tore
+**** Back
+[[file:words/tore.png]]
 *** boar
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -1672,9 +1672,9 @@ tore
 **** Front
 Words 1 Reverse
 
-[[file:words/boar.png]]
-**** Back
 boar
+**** Back
+[[file:words/boar.png]]
 *** sour
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -1682,9 +1682,9 @@ boar
 **** Front
 Words 1 Reverse
 
-[[file:words/sour.png]]
-**** Back
 sour
+**** Back
+[[file:words/sour.png]]
 *** car
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -1692,9 +1692,9 @@ sour
 **** Front
 Words 1 Reverse
 
-[[file:words/car.png]]
-**** Back
 car
+**** Back
+[[file:words/car.png]]
 *** care
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -1702,9 +1702,9 @@ car
 **** Front
 Words 1 Reverse
 
-[[file:words/care.png]]
-**** Back
 care
+**** Back
+[[file:words/care.png]]
 *** dear
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -1712,9 +1712,9 @@ care
 **** Front
 Words 1 Reverse
 
-[[file:words/dear.png]]
-**** Back
 dear
+**** Back
+[[file:words/dear.png]]
 *** cheer
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -1722,9 +1722,9 @@ dear
 **** Front
 Words 1 Reverse
 
-[[file:words/cheer.png]]
-**** Back
 cheer
+**** Back
+[[file:words/cheer.png]]
 *** fur
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -1732,9 +1732,9 @@ cheer
 **** Front
 Words 1 Reverse
 
-[[file:words/fur.png]]
-**** Back
 fur
+**** Back
+[[file:words/fur.png]]
 *** fir
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -1742,9 +1742,9 @@ fur
 **** Front
 Words 1 Reverse
 
-[[file:words/fir.png]]
-**** Back
 fir
+**** Back
+[[file:words/fir.png]]
 *** per
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -1752,9 +1752,9 @@ fir
 **** Front
 Words 1 Reverse
 
-[[file:words/per.png]]
-**** Back
 per
+**** Back
+[[file:words/per.png]]
 *** purr
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -1762,9 +1762,9 @@ per
 **** Front
 Words 1 Reverse
 
-[[file:words/purr.png]]
-**** Back
 purr
+**** Back
+[[file:words/purr.png]]
 *** refer
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -1772,9 +1772,9 @@ purr
 **** Front
 Words 1 Reverse
 
-[[file:words/refer.png]]
-**** Back
 refer
+**** Back
+[[file:words/refer.png]]
 *** heifer
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -1782,9 +1782,9 @@ refer
 **** Front
 Words 1 Reverse
 
-[[file:words/heifer.png]]
-**** Back
 heifer
+**** Back
+[[file:words/heifer.png]]
 *** verse
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -1792,9 +1792,9 @@ heifer
 **** Front
 Words 1 Reverse
 
-[[file:words/verse.png]]
-**** Back
 verse
+**** Back
+[[file:words/verse.png]]
 *** hearse
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -1802,9 +1802,9 @@ verse
 **** Front
 Words 1 Reverse
 
-[[file:words/hearse.png]]
-**** Back
 hearse
+**** Back
+[[file:words/hearse.png]]
 *** curse
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -1812,9 +1812,9 @@ hearse
 **** Front
 Words 1 Reverse
 
-[[file:words/curse.png]]
-**** Back
 curse
+**** Back
+[[file:words/curse.png]]
 *** reader
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -1822,9 +1822,9 @@ curse
 **** Front
 Words 1 Reverse
 
-[[file:words/reader.png]]
-**** Back
 reader
+**** Back
+[[file:words/reader.png]]
 *** voucher
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -1832,9 +1832,9 @@ reader
 **** Front
 Words 1 Reverse
 
-[[file:words/voucher.png]]
-**** Back
 voucher
+**** Back
+[[file:words/voucher.png]]
 *** journal
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -1842,9 +1842,9 @@ voucher
 **** Front
 Words 1 Reverse
 
-[[file:words/journal.png]]
-**** Back
 journal
+**** Back
+[[file:words/journal.png]]
 *** jerk
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -1852,9 +1852,9 @@ journal
 **** Front
 Words 1 Reverse
 
-[[file:words/jerk.png]]
-**** Back
 jerk
+**** Back
+[[file:words/jerk.png]]
 *** urge
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -1862,9 +1862,9 @@ jerk
 **** Front
 Words 1 Reverse
 
-[[file:words/urge.png]]
-**** Back
 urge
+**** Back
+[[file:words/urge.png]]
 *** churl
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -1872,9 +1872,9 @@ urge
 **** Front
 Words 1 Reverse
 
-[[file:words/churl.png]]
-**** Back
 churl
+**** Back
+[[file:words/churl.png]]
 *** pa
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -1882,9 +1882,9 @@ churl
 **** Front
 Words 1 Reverse
 
-[[file:words/pa.png]]
-**** Back
 pa
+**** Back
+[[file:words/pa.png]]
 *** data
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -1892,9 +1892,9 @@ pa
 **** Front
 Words 1 Reverse
 
-[[file:words/data.png]]
-**** Back
 data
+**** Back
+[[file:words/data.png]]
 *** paw
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -1902,9 +1902,9 @@ data
 **** Front
 Words 1 Reverse
 
-[[file:words/paw.png]]
-**** Back
 paw
+**** Back
+[[file:words/paw.png]]
 *** tray
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -1912,9 +1912,9 @@ paw
 **** Front
 Words 1 Reverse
 
-[[file:words/tray.png]]
-**** Back
 tray
+**** Back
+[[file:words/tray.png]]
 *** tree
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -1922,9 +1922,9 @@ tray
 **** Front
 Words 1 Reverse
 
-[[file:words/tree.png]]
-**** Back
 tree
+**** Back
+[[file:words/tree.png]]
 *** foe
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -1932,9 +1932,9 @@ tree
 **** Front
 Words 1 Reverse
 
-[[file:words/foe.png]]
-**** Back
 foe
+**** Back
+[[file:words/foe.png]]
 *** cow
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -1942,9 +1942,9 @@ foe
 **** Front
 Words 1 Reverse
 
-[[file:words/cow.png]]
-**** Back
 cow
+**** Back
+[[file:words/cow.png]]
 *** coo
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -1952,9 +1952,9 @@ cow
 **** Front
 Words 1 Reverse
 
-[[file:words/coo.png]]
-**** Back
 coo
+**** Back
+[[file:words/coo.png]]
 *** due
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -1962,9 +1962,9 @@ coo
 **** Front
 Words 1 Reverse
 
-[[file:words/due.png]]
-**** Back
 due
+**** Back
+[[file:words/due.png]]
 *** die
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -1972,9 +1972,9 @@ due
 **** Front
 Words 1 Reverse
 
-[[file:words/die.png]]
-**** Back
 die
+**** Back
+[[file:words/die.png]]
 *** boy
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -1982,9 +1982,9 @@ die
 **** Front
 Words 1 Reverse
 
-[[file:words/boy.png]]
-**** Back
 boy
+**** Back
+[[file:words/boy.png]]
 *** naive
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -1992,9 +1992,9 @@ boy
 **** Front
 Words 1 Reverse
 
-[[file:words/naive.png]]
-**** Back
 naive
+**** Back
+[[file:words/naive.png]]
 *** rawer
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -2002,9 +2002,9 @@ naive
 **** Front
 Words 1 Reverse
 
-[[file:words/rawer.png]]
-**** Back
 rawer
+**** Back
+[[file:words/rawer.png]]
 *** payer
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -2012,9 +2012,9 @@ rawer
 **** Front
 Words 1 Reverse
 
-[[file:words/payer.png]]
-**** Back
 payer
+**** Back
+[[file:words/payer.png]]
 *** period
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -2022,9 +2022,9 @@ payer
 **** Front
 Words 1 Reverse
 
-[[file:words/period.png]]
-**** Back
 period
+**** Back
+[[file:words/period.png]]
 *** theorem
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -2032,9 +2032,9 @@ period
 **** Front
 Words 1 Reverse
 
-[[file:words/theorem.png]]
-**** Back
 theorem
+**** Back
+[[file:words/theorem.png]]
 *** poem
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -2042,9 +2042,9 @@ theorem
 **** Front
 Words 1 Reverse
 
-[[file:words/poem.png]]
-**** Back
 poem
+**** Back
+[[file:words/poem.png]]
 *** vowel
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -2052,9 +2052,9 @@ poem
 **** Front
 Words 1 Reverse
 
-[[file:words/vowel.png]]
-**** Back
 vowel
+**** Back
+[[file:words/vowel.png]]
 *** ruin
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -2062,9 +2062,9 @@ vowel
 **** Front
 Words 1 Reverse
 
-[[file:words/ruin.png]]
-**** Back
 ruin
+**** Back
+[[file:words/ruin.png]]
 *** fuel
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -2072,9 +2072,9 @@ ruin
 **** Front
 Words 1 Reverse
 
-[[file:words/fuel.png]]
-**** Back
 fuel
+**** Back
+[[file:words/fuel.png]]
 *** genuine
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -2082,9 +2082,9 @@ fuel
 **** Front
 Words 1 Reverse
 
-[[file:words/genuine.png]]
-**** Back
 genuine
+**** Back
+[[file:words/genuine.png]]
 *** violate
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -2092,9 +2092,9 @@ genuine
 **** Front
 Words 1 Reverse
 
-[[file:words/violate.png]]
-**** Back
 violate
+**** Back
+[[file:words/violate.png]]
 *** riot
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -2102,9 +2102,9 @@ violate
 **** Front
 Words 1 Reverse
 
-[[file:words/riot.png]]
-**** Back
 riot
+**** Back
+[[file:words/riot.png]]
 *** iota
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -2112,9 +2112,9 @@ riot
 **** Front
 Words 1 Reverse
 
-[[file:words/iota.png]]
-**** Back
 iota
+**** Back
+[[file:words/iota.png]]
 *** royal
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -2122,9 +2122,9 @@ iota
 **** Front
 Words 1 Reverse
 
-[[file:words/royal.png]]
-**** Back
 royal
+**** Back
+[[file:words/royal.png]]
 *** boyish
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -2132,9 +2132,9 @@ royal
 **** Front
 Words 1 Reverse
 
-[[file:words/boyish.png]]
-**** Back
 boyish
+**** Back
+[[file:words/boyish.png]]
 *** happy
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -2142,9 +2142,9 @@ boyish
 **** Front
 Words 1 Reverse
 
-[[file:words/happy.png]]
-**** Back
 happy
+**** Back
+[[file:words/happy.png]]
 *** ready
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -2152,9 +2152,9 @@ happy
 **** Front
 Words 1 Reverse
 
-[[file:words/ready.png]]
-**** Back
 ready
+**** Back
+[[file:words/ready.png]]
 *** money
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -2162,9 +2162,9 @@ ready
 **** Front
 Words 1 Reverse
 
-[[file:words/money.png]]
-**** Back
 money
+**** Back
+[[file:words/money.png]]
 *** valley
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -2172,9 +2172,9 @@ money
 **** Front
 Words 1 Reverse
 
-[[file:words/valley.png]]
-**** Back
 valley
+**** Back
+[[file:words/valley.png]]
 *** degree
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -2182,9 +2182,9 @@ valley
 **** Front
 Words 1 Reverse
 
-[[file:words/degree.png]]
-**** Back
 degree
+**** Back
+[[file:words/degree.png]]
 *** free
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -2192,9 +2192,9 @@ degree
 **** Front
 Words 1 Reverse
 
-[[file:words/free.png]]
-**** Back
 free
+**** Back
+[[file:words/free.png]]
 *** gee
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -2202,9 +2202,9 @@ free
 **** Front
 Words 1 Reverse
 
-[[file:words/gee.png]]
-**** Back
 gee
+**** Back
+[[file:words/gee.png]]
 *** key
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -2212,9 +2212,9 @@ gee
 **** Front
 Words 1 Reverse
 
-[[file:words/key.png]]
-**** Back
 key
+**** Back
+[[file:words/key.png]]
 *** pea
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -2222,9 +2222,9 @@ key
 **** Front
 Words 1 Reverse
 
-[[file:words/pea.png]]
-**** Back
 pea
+**** Back
+[[file:words/pea.png]]
 *** fee
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -2232,9 +2232,9 @@ pea
 **** Front
 Words 1 Reverse
 
-[[file:words/fee.png]]
-**** Back
 fee
+**** Back
+[[file:words/fee.png]]
 *** area
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -2242,9 +2242,9 @@ fee
 **** Front
 Words 1 Reverse
 
-[[file:words/area.png]]
-**** Back
 area
+**** Back
+[[file:words/area.png]]
 *** mania
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -2252,9 +2252,9 @@ area
 **** Front
 Words 1 Reverse
 
-[[file:words/mania.png]]
-**** Back
 mania
+**** Back
+[[file:words/mania.png]]
 *** idea
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -2262,9 +2262,9 @@ mania
 **** Front
 Words 1 Reverse
 
-[[file:words/idea.png]]
-**** Back
 idea
+**** Back
+[[file:words/idea.png]]
 *** messiah
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -2272,9 +2272,9 @@ idea
 **** Front
 Words 1 Reverse
 
-[[file:words/messiah.png]]
-**** Back
 Messiah
+**** Back
+[[file:words/messiah.png]]
 *** boa
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -2282,9 +2282,9 @@ Messiah
 **** Front
 Words 1 Reverse
 
-[[file:words/boa.png]]
-**** Back
 boa
+**** Back
+[[file:words/boa.png]]
 *** folio
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -2292,9 +2292,9 @@ boa
 **** Front
 Words 1 Reverse
 
-[[file:words/folio.png]]
-**** Back
 folio
+**** Back
+[[file:words/folio.png]]
 *** payee
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -2302,6 +2302,6 @@ folio
 **** Front
 Words 1 Reverse
 
-[[file:words/payee.png]]
-**** Back
 payee
+**** Back
+[[file:words/payee.png]]
