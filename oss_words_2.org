@@ -5,13 +5,190 @@
 :ANKI_DECK: OSS-Words-2
 :END:
 ** Words
-*** cat
+*** lisp
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675954253663
 :END:
 **** Front
 Words 2
 
-[[file:words/cat.png]]
+[[file:words2/lisp.png]]
 **** Back
-cat
+lisp
+*** cusp
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675954254142
+:END:
+**** Front
+Words 2
+
+[[file:words2/cusp.png]]
+**** Back
+cusp
+*** desk
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675954254576
+:END:
+**** Front
+Words 2
+
+[[file:words2/desk.png]]
+**** Back
+desk
+*** tusk
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675954254974
+:END:
+**** Front
+Words 2
+
+[[file:words2/tusk.png]]
+**** Back
+tusk
+*** cast
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675954255667
+:END:
+**** Front
+Words 2
+
+[[file:words2/cast.png]]
+**** Back
+cast
+*** cost
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675954256087
+:END:
+**** Front
+Words 2
+
+[[file:words2/cost.png]]
+**** Back
+cost
+*** moist
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675954256440
+:END:
+**** Front
+Words 2
+
+[[file:words2/moist.png]]
+**** Back
+moist
+*** fist
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675954256776
+:END:
+**** Front
+Words 2
+
+[[file:words2/fist.png]]
+**** Back
+fist
+*** spell
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675954257324
+:END:
+**** Front
+Words 2
+
+[[file:words2/spell.png]]
+**** Back
+spell
+*** spread
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675954257746
+:END:
+**** Front
+Words 2
+
+[[file:words2/spread.png]]
+**** Back
+spread
+*** sketch
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675954258206
+:END:
+**** Front
+Words 2
+
+[[file:words2/sketch.png]]
+**** Back
+sketch
+*** school
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675954259470
+:END:
+**** Front
+Words 2
+
+[[file:words2/school.png]]
+**** Back
+school
+*** scoff
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675954259839
+:END:
+**** Front
+Words 2
+
+[[file:words2/scoff.png]]
+**** Back
+scoff
+*** zeal
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675954260216
+:END:
+**** Front
+Words 2
+
+[[file:words2/zeal.png]]
+**** Back
+zeal
+*** skill
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675954260627
+:END:
+**** Front
+Words 2
+
+[[file:words2/skill.png]]
+**** Back
+skill
+*** sack
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675954261131
+:END:
+**** Front
+Words 2
+
+[[file:words2/sack.png]]
+**** Back
+sack
+*** stack
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675954261569
+:END:
+**** Front
+Words 2
+
+[[file:words2/stack.png]]
+**** Back
+stack
