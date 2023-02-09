@@ -8,6 +8,7 @@
 *** cat
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901215495
 :END:
 **** Front
 Words 1 Reverse
@@ -18,6 +19,7 @@ cat
 *** calf
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901216347
 :END:
 **** Front
 Words 1 Reverse
@@ -28,6 +30,7 @@ calf
 *** pet
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901216748
 :END:
 **** Front
 Words 1 Reverse
@@ -38,6 +41,7 @@ pet
 *** pate
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901217043
 :END:
 **** Front
 Words 1 Reverse
@@ -48,6 +52,7 @@ pate
 *** pitch
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901217344
 :END:
 **** Front
 Words 1 Reverse
@@ -58,6 +63,7 @@ pitch
 *** peach
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901217604
 :END:
 **** Front
 Words 1 Reverse
@@ -68,6 +74,7 @@ peach
 *** loose
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901217893
 :END:
 **** Front
 Words 1 Reverse
@@ -78,6 +85,7 @@ loose
 *** muse
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901218343
 :END:
 **** Front
 Words 1 Reverse
@@ -88,6 +96,7 @@ muse
 *** side
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901218627
 :END:
 **** Front
 Words 1 Reverse
@@ -98,6 +107,7 @@ side
 *** void
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901218953
 :END:
 **** Front
 Words 1 Reverse
@@ -108,6 +118,7 @@ void
 *** cod
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901219252
 :END:
 **** Front
 Words 1 Reverse
@@ -118,6 +129,7 @@ cod
 *** code
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901219753
 :END:
 **** Front
 Words 1 Reverse
@@ -128,6 +140,7 @@ code
 *** cup
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901220028
 :END:
 **** Front
 Words 1 Reverse
@@ -138,6 +151,7 @@ cup
 *** doubt
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901220322
 :END:
 **** Front
 Words 1 Reverse
@@ -148,6 +162,7 @@ doubt
 *** at
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901220628
 :END:
 **** Front
 Words 1 Reverse
@@ -158,6 +173,7 @@ at
 *** arm
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901220973
 :END:
 **** Front
 Words 1 Reverse
@@ -168,6 +184,7 @@ arm
 *** et
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901221419
 :END:
 **** Front
 Words 1 Reverse
@@ -178,6 +195,7 @@ et
 *** eight
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901221703
 :END:
 **** Front
 Words 1 Reverse
@@ -188,6 +206,7 @@ eight
 *** itch
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901222003
 :END:
 **** Front
 Words 1 Reverse
@@ -198,6 +217,7 @@ itch
 *** each
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901222277
 :END:
 **** Front
 Words 1 Reverse
@@ -208,6 +228,7 @@ each
 *** ooze
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901222744
 :END:
 **** Front
 Words 1 Reverse
@@ -218,6 +239,7 @@ ooze
 *** use
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901223028
 :END:
 **** Front
 Words 1 Reverse
@@ -228,6 +250,7 @@ use
 *** idle
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901223318
 :END:
 **** Front
 Words 1 Reverse
@@ -238,6 +261,7 @@ idle
 *** oid
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901223618
 :END:
 **** Front
 Words 1 Reverse
@@ -248,6 +272,7 @@ oid
 *** odd
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901223924
 :END:
 **** Front
 Words 1 Reverse
@@ -258,6 +283,7 @@ odd
 *** ode
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901224375
 :END:
 **** Front
 Words 1 Reverse
@@ -268,6 +294,7 @@ ode
 *** up
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901224778
 :END:
 **** Front
 Words 1 Reverse
@@ -278,6 +305,7 @@ up
 *** out
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901225070
 :END:
 **** Front
 Words 1 Reverse
@@ -288,6 +316,7 @@ out
 *** crate
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901225368
 :END:
 **** Front
 Words 1 Reverse
@@ -298,6 +327,7 @@ crate
 *** dazzle
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901225818
 :END:
 **** Front
 Words 1 Reverse
@@ -308,6 +338,7 @@ dazzle
 *** blot
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901226074
 :END:
 **** Front
 Words 1 Reverse
@@ -318,6 +349,7 @@ blot
 *** alphabet
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901226378
 :END:
 **** Front
 Words 1 Reverse
@@ -328,6 +360,7 @@ alphabet
 *** gilpin
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901226678
 :END:
 **** Front
 Words 1 Reverse
@@ -338,6 +371,7 @@ gilpin
 *** hatpin
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901226969
 :END:
 **** Front
 Words 1 Reverse
@@ -348,6 +382,7 @@ hatpin
 *** train
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901227403
 :END:
 **** Front
 Words 1 Reverse
@@ -358,6 +393,7 @@ train
 *** glad
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901227677
 :END:
 **** Front
 Words 1 Reverse
@@ -368,6 +404,7 @@ glad
 *** trouble
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901227948
 :END:
 **** Front
 Words 1 Reverse
@@ -378,6 +415,7 @@ trouble
 *** pat
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901228224
 :END:
 **** Front
 Words 1 Reverse
@@ -388,6 +426,7 @@ pat
 *** back
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901228677
 :END:
 **** Front
 Words 1 Reverse
@@ -398,6 +437,7 @@ back
 *** mad
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901228944
 :END:
 **** Front
 Words 1 Reverse
@@ -408,6 +448,7 @@ mad
 *** catch
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901229227
 :END:
 **** Front
 Words 1 Reverse
@@ -418,6 +459,7 @@ catch
 *** man
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901229518
 :END:
 **** Front
 Words 1 Reverse
@@ -428,6 +470,7 @@ man
 *** dash
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901229768
 :END:
 **** Front
 Words 1 Reverse
@@ -438,6 +481,7 @@ dash
 *** fat
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901230203
 :END:
 **** Front
 Words 1 Reverse
@@ -448,6 +492,7 @@ fat
 *** lath
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901230497
 :END:
 **** Front
 Words 1 Reverse
@@ -458,6 +503,7 @@ lath
 *** add
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901230778
 :END:
 **** Front
 Words 1 Reverse
@@ -468,6 +514,7 @@ add
 *** ass
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901231043
 :END:
 **** Front
 Words 1 Reverse
@@ -478,6 +525,7 @@ ass
 *** addle
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901231500
 :END:
 **** Front
 Words 1 Reverse
@@ -488,6 +536,7 @@ addle
 *** debt
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901231818
 :END:
 **** Front
 Words 1 Reverse
@@ -498,6 +547,7 @@ debt
 *** neck
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901232103
 :END:
 **** Front
 Words 1 Reverse
@@ -508,6 +558,7 @@ neck
 *** dead
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901232394
 :END:
 **** Front
 Words 1 Reverse
@@ -518,6 +569,7 @@ dead
 *** death
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901232699
 :END:
 **** Front
 Words 1 Reverse
@@ -528,6 +580,7 @@ death
 *** men
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901233178
 :END:
 **** Front
 Words 1 Reverse
@@ -538,6 +591,7 @@ men
 *** leg
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901233518
 :END:
 **** Front
 Words 1 Reverse
@@ -548,6 +602,7 @@ leg
 *** guess
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901233828
 :END:
 **** Front
 Words 1 Reverse
@@ -558,6 +613,7 @@ guess
 *** check
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901234098
 :END:
 **** Front
 Words 1 Reverse
@@ -568,6 +624,7 @@ check
 *** shed
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901234519
 :END:
 **** Front
 Words 1 Reverse
@@ -578,6 +635,7 @@ shed
 *** ebb
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901234853
 :END:
 **** Front
 Words 1 Reverse
@@ -588,6 +646,7 @@ ebb
 *** edge
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901235144
 :END:
 **** Front
 Words 1 Reverse
@@ -598,6 +657,7 @@ edge
 *** egg
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901235403
 :END:
 **** Front
 Words 1 Reverse
@@ -608,6 +668,7 @@ egg
 *** date
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901235677
 :END:
 **** Front
 Words 1 Reverse
@@ -618,6 +679,7 @@ date
 *** rain
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901236122
 :END:
 **** Front
 Words 1 Reverse
@@ -628,6 +690,7 @@ rain
 *** fame
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901236453
 :END:
 **** Front
 Words 1 Reverse
@@ -638,6 +701,7 @@ fame
 *** shaise
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901236752
 :END:
 **** Front
 Words 1 Reverse
@@ -648,6 +712,7 @@ shaise
 *** pace
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901237047
 :END:
 **** Front
 Words 1 Reverse
@@ -658,6 +723,7 @@ pace
 *** raise
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901237519
 :END:
 **** Front
 Words 1 Reverse
@@ -668,6 +734,7 @@ raise
 *** race
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901237818
 :END:
 **** Front
 Words 1 Reverse
@@ -678,6 +745,7 @@ race
 *** pair
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901238103
 :END:
 **** Front
 Words 1 Reverse
@@ -688,6 +756,7 @@ pair
 *** fair
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901238403
 :END:
 **** Front
 Words 1 Reverse
@@ -698,6 +767,7 @@ fair
 *** aid
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901238694
 :END:
 **** Front
 Words 1 Reverse
@@ -708,6 +778,7 @@ aid
 *** ape
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901239146
 :END:
 **** Front
 Words 1 Reverse
@@ -718,6 +789,7 @@ ape
 *** ail
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901239494
 :END:
 **** Front
 Words 1 Reverse
@@ -728,6 +800,7 @@ ail
 *** dip
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901239799
 :END:
 **** Front
 Words 1 Reverse
@@ -738,6 +811,7 @@ dip
 *** rid
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901240078
 :END:
 **** Front
 Words 1 Reverse
@@ -748,6 +822,7 @@ rid
 *** chip
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901240353
 :END:
 **** Front
 Words 1 Reverse
@@ -758,6 +833,7 @@ chip
 *** live
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901240803
 :END:
 **** Front
 Words 1 Reverse
@@ -768,6 +844,7 @@ live
 *** gin
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901241103
 :END:
 **** Front
 Words 1 Reverse
@@ -778,6 +855,7 @@ gin
 *** sick
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901241418
 :END:
 **** Front
 Words 1 Reverse
@@ -788,6 +866,7 @@ sick
 *** big
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901241703
 :END:
 **** Front
 Words 1 Reverse
@@ -798,6 +877,7 @@ big
 *** thick
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901242153
 :END:
 **** Front
 Words 1 Reverse
@@ -808,6 +888,7 @@ thick
 *** kiss
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901242500
 :END:
 **** Front
 Words 1 Reverse
@@ -818,6 +899,7 @@ kiss
 *** inn
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901242773
 :END:
 **** Front
 Words 1 Reverse
@@ -828,6 +910,7 @@ inn
 *** ill
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901243053
 :END:
 **** Front
 Words 1 Reverse
@@ -838,6 +921,7 @@ ill
 *** deep
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901243303
 :END:
 **** Front
 Words 1 Reverse
@@ -848,6 +932,7 @@ deep
 *** read
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901243723
 :END:
 **** Front
 Words 1 Reverse
@@ -858,6 +943,7 @@ read
 *** cheap
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901244052
 :END:
 **** Front
 Words 1 Reverse
@@ -868,6 +954,7 @@ cheap
 *** leave
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901244329
 :END:
 **** Front
 Words 1 Reverse
@@ -878,6 +965,7 @@ leave
 *** kneel
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901244603
 :END:
 **** Front
 Words 1 Reverse
@@ -888,6 +976,7 @@ kneel
 *** seek
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901245052
 :END:
 **** Front
 Words 1 Reverse
@@ -898,6 +987,7 @@ seek
 *** neat
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901245372
 :END:
 **** Front
 Words 1 Reverse
@@ -908,6 +998,7 @@ neat
 *** teeth
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901245668
 :END:
 **** Front
 Words 1 Reverse
@@ -918,6 +1009,7 @@ teeth
 *** rear
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901245953
 :END:
 **** Front
 Words 1 Reverse
@@ -928,6 +1020,7 @@ rear
 *** eke
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901246419
 :END:
 **** Front
 Words 1 Reverse
@@ -938,6 +1031,7 @@ eke
 *** eat
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901246694
 :END:
 **** Front
 Words 1 Reverse
@@ -948,6 +1042,7 @@ eat
 *** bull
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901246968
 :END:
 **** Front
 Words 1 Reverse
@@ -958,6 +1053,7 @@ bull
 *** coop
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901247275
 :END:
 **** Front
 Words 1 Reverse
@@ -968,6 +1064,7 @@ coop
 *** move
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901247578
 :END:
 **** Front
 Words 1 Reverse
@@ -978,6 +1075,7 @@ move
 *** tune
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901248027
 :END:
 **** Front
 Words 1 Reverse
@@ -988,6 +1086,7 @@ tune
 *** cute
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901248403
 :END:
 **** Front
 Words 1 Reverse
@@ -998,6 +1097,7 @@ cute
 *** deuce
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901248698
 :END:
 **** Front
 Words 1 Reverse
@@ -1008,6 +1108,7 @@ deuce
 *** mine
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901248979
 :END:
 **** Front
 Words 1 Reverse
@@ -1018,6 +1119,7 @@ mine
 *** type
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901249269
 :END:
 **** Front
 Words 1 Reverse
@@ -1028,6 +1130,7 @@ type
 *** life
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901249743
 :END:
 **** Front
 Words 1 Reverse
@@ -1038,6 +1141,7 @@ life
 *** ice
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901250053
 :END:
 **** Front
 Words 1 Reverse
@@ -1048,6 +1152,7 @@ ice
 *** join
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901250353
 :END:
 **** Front
 Words 1 Reverse
@@ -1058,6 +1163,7 @@ join
 *** coit
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901250678
 :END:
 **** Front
 Words 1 Reverse
@@ -1068,6 +1174,7 @@ coit
 *** choice
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901251144
 :END:
 **** Front
 Words 1 Reverse
@@ -1078,6 +1185,7 @@ choice
 *** soil
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901251403
 :END:
 **** Front
 Words 1 Reverse
@@ -1088,6 +1196,7 @@ soil
 *** john
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901251678
 :END:
 **** Front
 Words 1 Reverse
@@ -1098,6 +1207,7 @@ john
 *** nod
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901251977
 :END:
 **** Front
 Words 1 Reverse
@@ -1108,6 +1218,7 @@ nod
 *** dole
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901252270
 :END:
 **** Front
 Words 1 Reverse
@@ -1118,6 +1229,7 @@ dole
 *** note
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901252727
 :END:
 **** Front
 Words 1 Reverse
@@ -1128,6 +1240,7 @@ note
 *** on
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901253018
 :END:
 **** Front
 Words 1 Reverse
@@ -1138,6 +1251,7 @@ on
 *** own
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901253318
 :END:
 **** Front
 Words 1 Reverse
@@ -1148,6 +1262,7 @@ own
 *** gull
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901253618
 :END:
 **** Front
 Words 1 Reverse
@@ -1158,6 +1273,7 @@ gull
 *** cut
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901253923
 :END:
 **** Front
 Words 1 Reverse
@@ -1168,6 +1284,7 @@ cut
 *** utter
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901254393
 :END:
 **** Front
 Words 1 Reverse
@@ -1178,6 +1295,7 @@ utter
 *** foul
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901254673
 :END:
 **** Front
 Words 1 Reverse
@@ -1188,6 +1306,7 @@ foul
 *** outer
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901254970
 :END:
 **** Front
 Words 1 Reverse
@@ -1198,6 +1317,7 @@ outer
 *** ban
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901255403
 :END:
 **** Front
 Words 1 Reverse
@@ -1208,6 +1328,7 @@ ban
 *** ben
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901255919
 :END:
 **** Front
 Words 1 Reverse
@@ -1218,6 +1339,7 @@ ben
 *** bane
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901256178
 :END:
 **** Front
 Words 1 Reverse
@@ -1228,6 +1350,7 @@ bane
 *** boon
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901256478
 :END:
 **** Front
 Words 1 Reverse
@@ -1238,6 +1361,7 @@ boon
 *** bone
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901256777
 :END:
 **** Front
 Words 1 Reverse
@@ -1248,6 +1372,7 @@ bone
 *** bun
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901257053
 :END:
 **** Front
 Words 1 Reverse
@@ -1258,6 +1383,7 @@ bun
 *** pal
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901257504
 :END:
 **** Front
 Words 1 Reverse
@@ -1268,6 +1394,7 @@ pal
 *** pool
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901257780
 :END:
 **** Front
 Words 1 Reverse
@@ -1278,6 +1405,7 @@ pool
 *** doll
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901258053
 :END:
 **** Front
 Words 1 Reverse
@@ -1288,6 +1416,7 @@ doll
 *** pill
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901258350
 :END:
 **** Front
 Words 1 Reverse
@@ -1298,6 +1427,7 @@ pill
 *** pile
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901258653
 :END:
 **** Front
 Words 1 Reverse
@@ -1308,6 +1438,7 @@ pile
 *** howl
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901259098
 :END:
 **** Front
 Words 1 Reverse
@@ -1318,6 +1449,7 @@ howl
 *** isle
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901259377
 :END:
 **** Front
 Words 1 Reverse
@@ -1328,6 +1460,7 @@ isle
 *** oil
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901259653
 :END:
 **** Front
 Words 1 Reverse
@@ -1338,6 +1471,7 @@ oil
 *** dame
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901259929
 :END:
 **** Front
 Words 1 Reverse
@@ -1348,6 +1482,7 @@ dame
 *** doom
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901260378
 :END:
 **** Front
 Words 1 Reverse
@@ -1358,6 +1493,7 @@ doom
 *** dome
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901260645
 :END:
 **** Front
 Words 1 Reverse
@@ -1368,6 +1504,7 @@ dome
 *** cough
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901260948
 :END:
 **** Front
 Words 1 Reverse
@@ -1378,6 +1515,7 @@ cough
 *** off
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901261228
 :END:
 **** Front
 Words 1 Reverse
@@ -1388,6 +1526,7 @@ off
 *** paff
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901261500
 :END:
 **** Front
 Words 1 Reverse
@@ -1398,6 +1537,7 @@ paff
 *** love
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901261954
 :END:
 **** Front
 Words 1 Reverse
@@ -1408,6 +1548,7 @@ love
 *** mace
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901262222
 :END:
 **** Front
 Words 1 Reverse
@@ -1418,6 +1559,7 @@ mace
 *** mouse
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901262500
 :END:
 **** Front
 Words 1 Reverse
@@ -1428,6 +1570,7 @@ mouse
 *** pose
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901262803
 :END:
 **** Front
 Words 1 Reverse
@@ -1438,6 +1581,7 @@ pose
 *** loaf
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901263293
 :END:
 **** Front
 Words 1 Reverse
@@ -1448,6 +1592,7 @@ loaf
 *** oath
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901263628
 :END:
 **** Front
 Words 1 Reverse
@@ -1458,6 +1603,7 @@ oath
 *** roof
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901263903
 :END:
 **** Front
 Words 1 Reverse
@@ -1468,6 +1614,7 @@ roof
 *** ripe
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901264194
 :END:
 **** Front
 Words 1 Reverse
@@ -1478,6 +1625,7 @@ ripe
 *** rate
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901264497
 :END:
 **** Front
 Words 1 Reverse
@@ -1488,6 +1636,7 @@ rate
 *** rod
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901264978
 :END:
 **** Front
 Words 1 Reverse
@@ -1498,6 +1647,7 @@ rod
 *** road
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901265253
 :END:
 **** Front
 Words 1 Reverse
@@ -1508,6 +1658,7 @@ road
 *** rough
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901265543
 :END:
 **** Front
 Words 1 Reverse
@@ -1518,6 +1669,7 @@ rough
 *** hoot
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901265822
 :END:
 **** Front
 Words 1 Reverse
@@ -1528,6 +1680,7 @@ hoot
 *** hat
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901266120
 :END:
 **** Front
 Words 1 Reverse
@@ -1538,6 +1691,7 @@ hat
 *** heat
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901266603
 :END:
 **** Front
 Words 1 Reverse
@@ -1548,6 +1702,7 @@ heat
 *** hose
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901266879
 :END:
 **** Front
 Words 1 Reverse
@@ -1558,6 +1713,7 @@ hose
 *** huge
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901267173
 :END:
 **** Front
 Words 1 Reverse
@@ -1568,6 +1724,7 @@ huge
 *** poor
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901267472
 :END:
 **** Front
 Words 1 Reverse
@@ -1578,6 +1735,7 @@ poor
 *** pure
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901267944
 :END:
 **** Front
 Words 1 Reverse
@@ -1588,6 +1746,7 @@ pure
 *** sure
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901268222
 :END:
 **** Front
 Words 1 Reverse
@@ -1598,6 +1757,7 @@ sure
 *** cure
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901268498
 :END:
 **** Front
 Words 1 Reverse
@@ -1608,6 +1768,7 @@ cure
 *** ire
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901268803
 :END:
 **** Front
 Words 1 Reverse
@@ -1618,6 +1779,7 @@ ire
 *** mire
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901269104
 :END:
 **** Front
 Words 1 Reverse
@@ -1628,6 +1790,7 @@ mire
 *** tyre
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901269543
 :END:
 **** Front
 Words 1 Reverse
@@ -1638,6 +1801,7 @@ tyre
 *** or
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901269827
 :END:
 **** Front
 Words 1 Reverse
@@ -1648,6 +1812,7 @@ or
 *** door
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901270123
 :END:
 **** Front
 Words 1 Reverse
@@ -1658,6 +1823,7 @@ door
 *** tore
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901270422
 :END:
 **** Front
 Words 1 Reverse
@@ -1668,6 +1834,7 @@ tore
 *** boar
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901270722
 :END:
 **** Front
 Words 1 Reverse
@@ -1678,6 +1845,7 @@ boar
 *** sour
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901271193
 :END:
 **** Front
 Words 1 Reverse
@@ -1688,6 +1856,7 @@ sour
 *** car
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901271478
 :END:
 **** Front
 Words 1 Reverse
@@ -1698,6 +1867,7 @@ car
 *** care
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901271779
 :END:
 **** Front
 Words 1 Reverse
@@ -1708,6 +1878,7 @@ care
 *** dear
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901272078
 :END:
 **** Front
 Words 1 Reverse
@@ -1718,6 +1889,7 @@ dear
 *** cheer
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901272369
 :END:
 **** Front
 Words 1 Reverse
@@ -1728,6 +1900,7 @@ cheer
 *** fur
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901272819
 :END:
 **** Front
 Words 1 Reverse
@@ -1738,6 +1911,7 @@ fur
 *** fir
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901273128
 :END:
 **** Front
 Words 1 Reverse
@@ -1748,6 +1922,7 @@ fir
 *** per
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901273453
 :END:
 **** Front
 Words 1 Reverse
@@ -1758,6 +1933,7 @@ per
 *** purr
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901273730
 :END:
 **** Front
 Words 1 Reverse
@@ -1768,6 +1944,7 @@ purr
 *** refer
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901274248
 :END:
 **** Front
 Words 1 Reverse
@@ -1778,6 +1955,7 @@ refer
 *** heifer
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901274545
 :END:
 **** Front
 Words 1 Reverse
@@ -1788,6 +1966,7 @@ heifer
 *** verse
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901274855
 :END:
 **** Front
 Words 1 Reverse
@@ -1798,6 +1977,7 @@ verse
 *** hearse
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901275153
 :END:
 **** Front
 Words 1 Reverse
@@ -1808,6 +1988,7 @@ hearse
 *** curse
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901275454
 :END:
 **** Front
 Words 1 Reverse
@@ -1818,6 +1999,7 @@ curse
 *** reader
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901275944
 :END:
 **** Front
 Words 1 Reverse
@@ -1828,6 +2010,7 @@ reader
 *** voucher
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901276218
 :END:
 **** Front
 Words 1 Reverse
@@ -1838,6 +2021,7 @@ voucher
 *** journal
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901276498
 :END:
 **** Front
 Words 1 Reverse
@@ -1848,6 +2032,7 @@ journal
 *** jerk
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901276803
 :END:
 **** Front
 Words 1 Reverse
@@ -1858,6 +2043,7 @@ jerk
 *** urge
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901277095
 :END:
 **** Front
 Words 1 Reverse
@@ -1868,6 +2054,7 @@ urge
 *** churl
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901277653
 :END:
 **** Front
 Words 1 Reverse
@@ -1878,6 +2065,7 @@ churl
 *** pa
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901277949
 :END:
 **** Front
 Words 1 Reverse
@@ -1888,6 +2076,7 @@ pa
 *** data
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901278254
 :END:
 **** Front
 Words 1 Reverse
@@ -1898,6 +2087,7 @@ data
 *** paw
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901278524
 :END:
 **** Front
 Words 1 Reverse
@@ -1908,6 +2098,7 @@ paw
 *** tray
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901279004
 :END:
 **** Front
 Words 1 Reverse
@@ -1918,6 +2109,7 @@ tray
 *** tree
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901279303
 :END:
 **** Front
 Words 1 Reverse
@@ -1928,6 +2120,7 @@ tree
 *** foe
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901279603
 :END:
 **** Front
 Words 1 Reverse
@@ -1938,6 +2131,7 @@ foe
 *** cow
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901279902
 :END:
 **** Front
 Words 1 Reverse
@@ -1948,6 +2142,7 @@ cow
 *** coo
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901280194
 :END:
 **** Front
 Words 1 Reverse
@@ -1958,6 +2153,7 @@ coo
 *** due
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901280694
 :END:
 **** Front
 Words 1 Reverse
@@ -1968,6 +2164,7 @@ due
 *** die
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901280993
 :END:
 **** Front
 Words 1 Reverse
@@ -1978,6 +2175,7 @@ die
 *** boy
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901281294
 :END:
 **** Front
 Words 1 Reverse
@@ -1988,6 +2186,7 @@ boy
 *** naive
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901281598
 :END:
 **** Front
 Words 1 Reverse
@@ -1998,6 +2197,7 @@ naive
 *** rawer
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901281918
 :END:
 **** Front
 Words 1 Reverse
@@ -2008,6 +2208,7 @@ rawer
 *** payer
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901282419
 :END:
 **** Front
 Words 1 Reverse
@@ -2018,6 +2219,7 @@ payer
 *** period
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901282723
 :END:
 **** Front
 Words 1 Reverse
@@ -2028,6 +2230,7 @@ period
 *** theorem
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901283003
 :END:
 **** Front
 Words 1 Reverse
@@ -2038,6 +2241,7 @@ theorem
 *** poem
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901283320
 :END:
 **** Front
 Words 1 Reverse
@@ -2048,6 +2252,7 @@ poem
 *** vowel
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901283803
 :END:
 **** Front
 Words 1 Reverse
@@ -2058,6 +2263,7 @@ vowel
 *** ruin
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901284124
 :END:
 **** Front
 Words 1 Reverse
@@ -2068,6 +2274,7 @@ ruin
 *** fuel
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901284496
 :END:
 **** Front
 Words 1 Reverse
@@ -2078,6 +2285,7 @@ fuel
 *** genuine
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901284844
 :END:
 **** Front
 Words 1 Reverse
@@ -2088,6 +2296,7 @@ genuine
 *** violate
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901285143
 :END:
 **** Front
 Words 1 Reverse
@@ -2098,6 +2307,7 @@ violate
 *** riot
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901285597
 :END:
 **** Front
 Words 1 Reverse
@@ -2108,6 +2318,7 @@ riot
 *** iota
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901285894
 :END:
 **** Front
 Words 1 Reverse
@@ -2118,6 +2329,7 @@ iota
 *** royal
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901286203
 :END:
 **** Front
 Words 1 Reverse
@@ -2128,6 +2340,7 @@ royal
 *** boyish
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901286478
 :END:
 **** Front
 Words 1 Reverse
@@ -2138,6 +2351,7 @@ boyish
 *** happy
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901286927
 :END:
 **** Front
 Words 1 Reverse
@@ -2148,6 +2362,7 @@ happy
 *** ready
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901287203
 :END:
 **** Front
 Words 1 Reverse
@@ -2158,6 +2373,7 @@ ready
 *** money
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901287497
 :END:
 **** Front
 Words 1 Reverse
@@ -2168,6 +2384,7 @@ money
 *** valley
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901287777
 :END:
 **** Front
 Words 1 Reverse
@@ -2178,6 +2395,7 @@ valley
 *** degree
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901288078
 :END:
 **** Front
 Words 1 Reverse
@@ -2188,6 +2406,7 @@ degree
 *** free
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901288527
 :END:
 **** Front
 Words 1 Reverse
@@ -2198,6 +2417,7 @@ free
 *** gee
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901288828
 :END:
 **** Front
 Words 1 Reverse
@@ -2208,6 +2428,7 @@ gee
 *** key
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901289124
 :END:
 **** Front
 Words 1 Reverse
@@ -2218,6 +2439,7 @@ key
 *** pea
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901289452
 :END:
 **** Front
 Words 1 Reverse
@@ -2228,6 +2450,7 @@ pea
 *** fee
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901289744
 :END:
 **** Front
 Words 1 Reverse
@@ -2238,6 +2461,7 @@ fee
 *** area
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901290228
 :END:
 **** Front
 Words 1 Reverse
@@ -2248,6 +2472,7 @@ area
 *** mania
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901290514
 :END:
 **** Front
 Words 1 Reverse
@@ -2258,6 +2483,7 @@ mania
 *** idea
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901290822
 :END:
 **** Front
 Words 1 Reverse
@@ -2268,6 +2494,7 @@ idea
 *** messiah
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901291119
 :END:
 **** Front
 Words 1 Reverse
@@ -2278,6 +2505,7 @@ Messiah
 *** boa
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901291578
 :END:
 **** Front
 Words 1 Reverse
@@ -2288,6 +2516,7 @@ boa
 *** folio
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901291873
 :END:
 **** Front
 Words 1 Reverse
@@ -2298,6 +2527,7 @@ folio
 *** payee
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675901292172
 :END:
 **** Front
 Words 1 Reverse
