@@ -2491,3 +2491,300 @@ Words 2
 [[file:words2/trip.png]]
 **** Back
 trip
+*** freight
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676030823950
+:END:
+**** Front
+Words 2
+
+[[file:words2/freight.png]]
+**** Back
+freight
+*** thrust
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676030824438
+:END:
+**** Front
+Words 2
+
+[[file:words2/thrust.png]]
+**** Back
+thrust
+*** strap
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676030825000
+:END:
+**** Front
+Words 2
+
+[[file:words2/strap.png]]
+**** Back
+strap
+*** sprang
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676030825382
+:END:
+**** Front
+Words 2
+
+[[file:words2/sprang.png]]
+**** Back
+sprang
+*** draft
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676030825775
+:END:
+**** Front
+Words 2
+
+[[file:words2/draft.png]]
+**** Back
+draft
+*** grip
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676030826512
+:END:
+**** Front
+Words 2
+
+[[file:words2/grip.png]]
+**** Back
+grip
+*** broke
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676030826874
+:END:
+**** Front
+Words 2
+
+[[file:words2/broke.png]]
+**** Back
+broke
+*** brethren
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676030827310
+:END:
+**** Front
+Words 2
+
+[[file:words2/brethren.png]]
+**** Back
+brethren
+*** israel
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676030827704
+:END:
+**** Front
+Words 2
+
+[[file:words2/israel.png]]
+**** Back
+Israel
+*** shred
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676030828137
+:END:
+**** Front
+Words 2
+
+[[file:words2/shred.png]]
+**** Back
+shred
+*** shrimps
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676030828737
+:END:
+**** Front
+Words 2
+
+[[file:words2/shrimps.png]]
+**** Back
+shrimps
+*** wolf
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676030829171
+:END:
+**** Front
+Words 2
+
+[[file:words2/wolf.png]]
+**** Back
+wolf
+*** dazzle
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676030829846
+:END:
+**** Front
+Words 2
+
+[[file:words2/dazzle.png]]
+**** Back
+dazzle
+*** nimble
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676030830280
+:END:
+**** Front
+Words 2
+
+[[file:words2/nimble.png]]
+**** Back
+nimble
+*** ignore
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676030830905
+:END:
+**** Front
+Words 2
+
+[[file:words2/ignore.png]]
+**** Back
+ignore
+*** kidney
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676030831356
+:END:
+**** Front
+Words 2
+
+[[file:words2/kidney.png]]
+**** Back
+kidney
+*** remnant
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676030831781
+:END:
+**** Front
+Words 2
+
+[[file:words2/remnant.png]]
+**** Back
+remnant
+*** henry
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676030832205
+:END:
+**** Front
+Words 2
+
+[[file:words2/henry.png]]
+**** Back
+Henry
+*** scenery
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676030832787
+:END:
+**** Front
+Words 2
+
+[[file:words2/scenery.png]]
+**** Back
+scenery
+*** minster
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676030833180
+:END:
+**** Front
+Words 2
+
+[[file:words2/minster.png]]
+**** Back
+minster
+*** minister
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676030833563
+:END:
+**** Front
+Words 2
+
+[[file:words2/minister.png]]
+**** Back
+minister
+*** harp
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676030833946
+:END:
+**** Front
+Words 2
+
+[[file:words2/harp.png]]
+**** Back
+harp
+*** kerb
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676030834380
+:END:
+**** Front
+Words 2
+
+[[file:words2/kerb.png]]
+**** Back
+kerb
+*** curb
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676030834933
+:END:
+**** Front
+Words 2
+
+[[file:words2/curb.png]]
+**** Back
+curb
+*** bursted
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676030835308
+:END:
+**** Front
+Words 2
+
+[[file:words2/bursted.png]]
+**** Back
+bursted
+*** fierce
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676030835778
+:END:
+**** Front
+Words 2
+
+[[file:words2/fierce.png]]
+**** Back
+fierce
+*** orb
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676030836196
+:END:
+**** Front
+Words 2
+
+[[file:words2/orb.png]]
+**** Back
+orb
