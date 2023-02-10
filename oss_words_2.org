@@ -192,3 +192,685 @@ Words 2
 [[file:words2/stack.png]]
 **** Back
 stack
+*** anger
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675992299621
+:END:
+**** Front
+Words 2
+
+[[file:words2/anger.png]]
+**** Back
+anger
+*** lang
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675992300141
+:END:
+**** Front
+Words 2
+
+[[file:words2/lang.png]]
+**** Back
+lang
+*** lag
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675992300600
+:END:
+**** Front
+Words 2
+
+[[file:words2/lag.png]]
+**** Back
+lag
+*** rank
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675992300963
+:END:
+**** Front
+Words 2
+
+[[file:words2/rank.png]]
+**** Back
+rank
+*** rack
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675992301350
+:END:
+**** Front
+Words 2
+
+[[file:words2/rack.png]]
+**** Back
+rack
+*** range
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675992301869
+:END:
+**** Front
+Words 2
+
+[[file:words2/range.png]]
+**** Back
+range
+*** rage
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675992302250
+:END:
+**** Front
+Words 2
+
+[[file:words2/rage.png]]
+**** Back
+rage
+*** length
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675992302779
+:END:
+**** Front
+Words 2
+
+[[file:words2/length.png]]
+**** Back
+length
+*** tenth
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675992303319
+:END:
+**** Front
+Words 2
+
+[[file:words2/tenth.png]]
+**** Back
+tenth
+*** avenger
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675992303741
+:END:
+**** Front
+Words 2
+
+[[file:words2/avenger.png]]
+**** Back
+avenger
+*** rancher
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675992304100
+:END:
+**** Front
+Words 2
+
+[[file:words2/rancher.png]]
+**** Back
+rancher
+*** french
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675992304472
+:END:
+**** Front
+Words 2
+
+[[file:words2/french.png]]
+**** Back
+french
+*** bunch
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675992304863
+:END:
+**** Front
+Words 2
+
+[[file:words2/bunch.png]]
+**** Back
+bunch
+*** longing
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675992305469
+:END:
+**** Front
+Words 2
+
+[[file:words2/longing.png]]
+**** Back
+longing
+*** land
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675992305834
+:END:
+**** Front
+Words 2
+
+[[file:words2/land.png]]
+**** Back
+land
+*** friend
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675992306196
+:END:
+**** Front
+Words 2
+
+[[file:words2/friend.png]]
+**** Back
+friend
+*** found
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675992306584
+:END:
+**** Front
+Words 2
+
+[[file:words2/found.png]]
+**** Back
+found
+*** cant
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675992307177
+:END:
+**** Front
+Words 2
+
+[[file:words2/cant.png]]
+**** Back
+cant
+*** ant
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675992308159
+:END:
+**** Front
+Words 2
+
+[[file:words2/ant.png]]
+**** Back
+ant
+*** point
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675992308547
+:END:
+**** Front
+Words 2
+
+[[file:words2/point.png]]
+**** Back
+point
+*** went
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675992308975
+:END:
+**** Front
+Words 2
+
+[[file:words2/went.png]]
+**** Back
+went
+*** want
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675992309516
+:END:
+**** Front
+Words 2
+
+[[file:words2/want.png]]
+**** Back
+want
+*** ban
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675992309946
+:END:
+**** Front
+Words 2
+
+[[file:words2/ban.png]]
+**** Back
+ban
+*** band
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675992310322
+:END:
+**** Front
+Words 2
+
+[[file:words2/band.png]]
+**** Back
+band
+*** bang
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675992310714
+:END:
+**** Front
+Words 2
+
+[[file:words2/bang.png]]
+**** Back
+bang
+*** bag
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675992311304
+:END:
+**** Front
+Words 2
+
+[[file:words2/bag.png]]
+**** Back
+bag
+*** pal
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675992311722
+:END:
+**** Front
+Words 2
+
+[[file:words2/pal.png]]
+**** Back
+pal
+*** pant
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675992312120
+:END:
+**** Front
+Words 2
+
+[[file:words2/pant.png]]
+**** Back
+pant
+*** tank
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675992312508
+:END:
+**** Front
+Words 2
+
+[[file:words2/tank.png]]
+**** Back
+tack
+*** amber
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675992313086
+:END:
+**** Front
+Words 2
+
+[[file:words2/amber.png]]
+**** Back
+amber
+*** emblem
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675992313570
+:END:
+**** Front
+Words 2
+
+[[file:words2/emblem.png]]
+**** Back
+emblem
+*** imp
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675992313966
+:END:
+**** Front
+Words 2
+
+[[file:words2/imp.png]]
+**** Back
+imp
+*** empire
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675992314352
+:END:
+**** Front
+Words 2
+
+[[file:words2/empire.png]]
+**** Back
+empire
+*** answer
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675992314843
+:END:
+**** Front
+Words 2
+
+[[file:words2/answer.png]]
+**** Back
+answer
+*** chamber
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675992315246
+:END:
+**** Front
+Words 2
+
+[[file:words2/chamber.png]]
+**** Back
+chamber
+*** lumber
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675992315616
+:END:
+**** Front
+Words 2
+
+[[file:words2/lumber.png]]
+**** Back
+lumber
+*** lamp
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675992315976
+:END:
+**** Front
+Words 2
+
+[[file:words2/lamp.png]]
+**** Back
+lamp
+*** rump
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675992316545
+:END:
+**** Front
+Words 2
+
+[[file:words2/rump.png]]
+**** Back
+rump
+*** frenzy
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675992316976
+:END:
+**** Front
+Words 2
+
+[[file:words2/frenzy.png]]
+**** Back
+frenzy
+*** bronze
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675992317364
+:END:
+**** Front
+Words 2
+
+[[file:words2/bronze.png]]
+**** Back
+bronze
+*** dance
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675992317771
+:END:
+**** Front
+Words 2
+
+[[file:words2/dance.png]]
+**** Back
+dance
+*** dense
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675992318136
+:END:
+**** Front
+Words 2
+
+[[file:words2/dense.png]]
+**** Back
+dense
+*** prince
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675992318690
+:END:
+**** Front
+Words 2
+
+[[file:words2/prince.png]]
+**** Back
+prince
+*** guano
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675992319048
+:END:
+**** Front
+Words 2
+
+[[file:words2/guano.png]]
+**** Back
+guano
+*** quack
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675992319525
+:END:
+**** Front
+Words 2
+
+[[file:words2/quack.png]]
+**** Back
+quack
+*** quell
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675992319950
+:END:
+**** Front
+Words 2
+
+[[file:words2/quell.png]]
+**** Back
+quell
+*** dwell
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675992320515
+:END:
+**** Front
+Words 2
+
+[[file:words2/dwell.png]]
+**** Back
+dwell
+*** twice
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675992320922
+:END:
+**** Front
+Words 2
+
+[[file:words2/twice.png]]
+**** Back
+twice
+*** twitch
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675992321319
+:END:
+**** Front
+Words 2
+
+[[file:words2/twitch.png]]
+**** Back
+twitch
+*** swim
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675992321695
+:END:
+**** Front
+Words 2
+
+[[file:words2/swim.png]]
+**** Back
+swim
+*** swum
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675992322214
+:END:
+**** Front
+Words 2
+
+[[file:words2/swum.png]]
+**** Back
+swum
+*** squint
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675992322586
+:END:
+**** Front
+Words 2
+
+[[file:words2/squint.png]]
+**** Back
+squint
+*** squash
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675992322952
+:END:
+**** Front
+Words 2
+
+[[file:words2/squash.png]]
+**** Back
+squash
+*** squander
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675992323390
+:END:
+**** Front
+Words 2
+
+[[file:words2/squander.png]]
+**** Back
+squander
+*** thwack
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675992323914
+:END:
+**** Front
+Words 2
+
+[[file:words2/thwack.png]]
+**** Back
+thwack
+*** equip
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675992324311
+:END:
+**** Front
+Words 2
+
+[[file:words2/equip.png]]
+**** Back
+equip
+*** acquaint
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675992324688
+:END:
+**** Front
+Words 2
+
+[[file:words2/acquaint.png]]
+**** Back
+acquaint
+*** equal
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675992325077
+:END:
+**** Front
+Words 2
+
+[[file:words2/equal.png]]
+**** Back
+equal
+*** require
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675992325666
+:END:
+**** Front
+Words 2
+
+[[file:words2/require.png]]
+**** Back
+require
+*** esquire
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675992326018
+:END:
+**** Front
+Words 2
+
+[[file:words2/esquire.png]]
+**** Back
+esquire
+*** asquint
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675992326378
+:END:
+**** Front
+Words 2
+
+[[file:words2/asquint.png]]
+**** Back
+asquint
+*** eloquent
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1675992326820
+:END:
+**** Front
+Words 2
+
+[[file:words2/eloquent.png]]
+**** Back
+eloquent
