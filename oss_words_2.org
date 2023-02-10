@@ -874,3 +874,353 @@ Words 2
 [[file:words2/eloquent.png]]
 **** Back
 eloquent
+*** depth
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 2
+
+[[file:words2/depth.png]]
+**** Back
+depth
+*** width
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 2
+
+[[file:words2/width.png]]
+**** Back
+width
+*** earth
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 2
+
+[[file:words2/earth.png]]
+**** Back
+earth
+*** erst
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 2
+
+[[file:words2/erst.png]]
+**** Back
+erst
+*** amidst
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 2
+
+[[file:words2/amidst.png]]
+**** Back
+amidst
+*** speakst
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 2
+
+[[file:words2/speakst.png]]
+**** Back
+speakst
+*** worth
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 2
+
+[[file:words2/worth.png]]
+**** Back
+worth
+*** worthy
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 2
+
+[[file:words2/worthy.png]]
+**** Back
+worthy
+*** filth
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 2
+
+[[file:words2/filth.png]]
+**** Back
+filth
+*** filthy
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 2
+
+[[file:words2/filthy.png]]
+**** Back
+filthy
+*** earthen
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 2
+
+[[file:words2/earthen.png]]
+**** Back
+earthen
+*** trickst
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 2
+
+[[file:words2/trickst.png]]
+**** Back
+trickst
+*** trickster
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 2
+
+[[file:words2/trickster.png]]
+**** Back
+trickster
+*** tenth
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 2
+
+[[file:words2/tenth.png]]
+**** Back
+tenth
+*** strength
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 2
+
+[[file:words2/strength.png]]
+**** Back
+strength
+*** gold
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 2
+
+[[file:words2/gold.png]]
+**** Back
+gold
+*** wild
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 2
+
+[[file:words2/wild.png]]
+**** Back
+wild
+*** card
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 2
+
+[[file:words2/card.png]]
+**** Back
+card
+*** board
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 2
+
+[[file:words2/board.png]]
+**** Back
+board
+*** heard
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 2
+
+[[file:words2/heard.png]]
+**** Back
+heard
+*** build
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 2
+
+[[file:words2/build.png]]
+**** Back
+build
+*** built
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 2
+
+[[file:words2/built.png]]
+**** Back
+built
+*** felt
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 2
+
+[[file:words2/felt.png]]
+**** Back
+felt
+*** quart
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 2
+
+[[file:words2/quart.png]]
+**** Back
+quart
+*** crept
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 2
+
+[[file:words2/crept.png]]
+**** Back
+crept
+*** tract
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 2
+
+[[file:words2/tract.png]]
+**** Back
+tract
+*** left
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 2
+
+[[file:words2/left.png]]
+**** Back
+left
+*** cart
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 2
+
+[[file:words2/cart.png]]
+**** Back
+cart
+*** golden
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 2
+
+[[file:words2/golden.png]]
+**** Back
+golden
+*** wilder
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 2
+
+[[file:words2/wilder.png]]
+**** Back
+wilder
+*** border
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 2
+
+[[file:words2/border.png]]
+**** Back
+border
+*** end
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 2
+
+[[file:words2/end.png]]
+**** Back
+end
+*** depend
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 2
+
+[[file:words2/depend.png]]
+**** Back
+depend
+*** pent
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 2
+
+[[file:words2/pent.png]]
+**** Back
+pent
+*** past
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 2
+
+[[file:words2/past.png]]
+**** Back
+past
