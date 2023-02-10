@@ -1224,3 +1224,463 @@ Words 2
 [[file:words2/past.png]]
 **** Back
 past
+*** caps
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 2
+
+[[file:words2/caps.png]]
+**** Back
+caps
+*** rates
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 2
+
+[[file:words2/rates.png]]
+**** Back
+rates
+*** docks
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 2
+
+[[file:words2/docks.png]]
+**** Back
+docks
+*** laughs
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 2
+
+[[file:words2/laughs.png]]
+**** Back
+laughs
+*** rests
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 2
+
+[[file:words2/rests.png]]
+**** Back
+rests
+*** asks
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 2
+
+[[file:words2/asks.png]]
+**** Back
+asks
+*** lisps
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 2
+
+[[file:words2/lisps.png]]
+**** Back
+lisps
+*** robs
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 2
+
+[[file:words2/robs.png]]
+**** Back
+robs
+*** lads
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 2
+
+[[file:words2/lads.png]]
+**** Back
+lads
+*** eggs
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 2
+
+[[file:words2/eggs.png]]
+**** Back
+eggs
+*** loves
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 2
+
+[[file:words2/loves.png]]
+**** Back
+loves
+*** clothes
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 2
+
+[[file:words2/clothes.png]]
+**** Back
+clothes
+*** aims
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 2
+
+[[file:words2/aims.png]]
+**** Back
+aims
+*** nails
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 2
+
+[[file:words2/nails.png]]
+**** Back
+nails
+*** cars
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 2
+
+[[file:words2/cars.png]]
+**** Back
+cars
+*** sins
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 2
+
+[[file:words2/sins.png]]
+**** Back
+sins
+*** rays
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 2
+
+[[file:words2/rays.png]]
+**** Back
+rays
+*** raise
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 2
+
+[[file:words2/raise.png]]
+**** Back
+raise
+*** paws
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 2
+
+[[file:words2/paws.png]]
+**** Back
+paws
+*** pause
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 2
+
+[[file:words2/pause.png]]
+**** Back
+pause
+*** fees
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 2
+
+[[file:words2/fees.png]]
+**** Back
+fees
+*** blues
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 2
+
+[[file:words2/blues.png]]
+**** Back
+blues
+*** lies
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 2
+
+[[file:words2/lies.png]]
+**** Back
+lies
+*** dues
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 2
+
+[[file:words2/dues.png]]
+**** Back
+dues
+*** cows
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 2
+
+[[file:words2/cows.png]]
+**** Back
+cows
+*** pas
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 2
+
+[[file:words2/pas.png]]
+**** Back
+pa’s
+*** cats
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 2
+
+[[file:words2/cats.png]]
+**** Back
+cats
+*** paw
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 2
+
+[[file:words2/paw.png]]
+**** Back
+paw
+*** deaths
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 2
+
+[[file:words2/deaths.png]]
+**** Back
+deaths
+*** raises
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 2
+
+[[file:words2/raises.png]]
+**** Back
+raises
+*** pauses
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 2
+
+[[file:words2/pauses.png]]
+**** Back
+pauses
+*** passes
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 2
+
+[[file:words2/passes.png]]
+**** Back
+passes
+*** judges
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 2
+
+[[file:words2/judges.png]]
+**** Back
+judges
+*** wretches
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 2
+
+[[file:words2/wretches.png]]
+**** Back
+wretches
+*** ass
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 2
+
+[[file:words2/ass.png]]
+**** Back
+ass
+*** asses
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 2
+
+[[file:words2/asses.png]]
+**** Back
+asses
+*** assess
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 2
+
+[[file:words2/assess.png]]
+**** Back
+assess
+*** assesses
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 2
+
+[[file:words2/assesses.png]]
+**** Back
+assesses
+*** robbed
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 2
+
+[[file:words2/robbed.png]]
+**** Back
+robbed
+*** ragged
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 2
+
+[[file:words2/ragged.png]]
+**** Back
+ragged
+*** raised
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 2
+
+[[file:words2/ragged.png]]
+**** Back
+ragged
+*** raised
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 2
+
+[[file:words2/raised.png]]
+**** Back
+raised
+*** bowled
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 2
+
+[[file:words2/bowled.png]]
+**** Back
+bowled
+*** tamed
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 2
+
+[[file:words2/tamed.png]]
+**** Back
+tamed
+*** bored
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 2
+
+[[file:words2/bored.png]]
+**** Back
+bored
+*** lied
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words 2
+
+[[file:words2/lied.png]]
+**** Back
+lied
