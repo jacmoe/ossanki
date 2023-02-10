@@ -877,6 +877,7 @@ eloquent
 *** depth
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676005572266
 :END:
 **** Front
 Words 2
@@ -887,6 +888,7 @@ depth
 *** width
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676005572653
 :END:
 **** Front
 Words 2
@@ -897,6 +899,7 @@ width
 *** earth
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676005573228
 :END:
 **** Front
 Words 2
@@ -907,6 +910,7 @@ earth
 *** erst
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676005573579
 :END:
 **** Front
 Words 2
@@ -917,6 +921,7 @@ erst
 *** amidst
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676005573967
 :END:
 **** Front
 Words 2
@@ -927,6 +932,7 @@ amidst
 *** speakst
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676005574421
 :END:
 **** Front
 Words 2
@@ -937,6 +943,7 @@ speakst
 *** worth
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676005574826
 :END:
 **** Front
 Words 2
@@ -947,6 +954,7 @@ worth
 *** worthy
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676005575377
 :END:
 **** Front
 Words 2
@@ -957,6 +965,7 @@ worthy
 *** filth
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676005575827
 :END:
 **** Front
 Words 2
@@ -967,6 +976,7 @@ filth
 *** filthy
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676005576226
 :END:
 **** Front
 Words 2
@@ -977,6 +987,7 @@ filthy
 *** earthen
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676005576649
 :END:
 **** Front
 Words 2
@@ -987,6 +998,7 @@ earthen
 *** trickst
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676005577221
 :END:
 **** Front
 Words 2
@@ -997,6 +1009,7 @@ trickst
 *** trickster
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676005577691
 :END:
 **** Front
 Words 2
@@ -1004,19 +1017,10 @@ Words 2
 [[file:words2/trickster.png]]
 **** Back
 trickster
-*** tenth
-:PROPERTIES:
-:ANKI_NOTE_TYPE: Basic
-:END:
-**** Front
-Words 2
-
-[[file:words2/tenth.png]]
-**** Back
-tenth
 *** strength
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676005578271
 :END:
 **** Front
 Words 2
@@ -1027,6 +1031,7 @@ strength
 *** gold
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676005578897
 :END:
 **** Front
 Words 2
@@ -1037,6 +1042,7 @@ gold
 *** wild
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676005579286
 :END:
 **** Front
 Words 2
@@ -1047,6 +1053,7 @@ wild
 *** card
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676005579707
 :END:
 **** Front
 Words 2
@@ -1057,6 +1064,7 @@ card
 *** board
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676005580117
 :END:
 **** Front
 Words 2
@@ -1067,6 +1075,7 @@ board
 *** heard
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676005580534
 :END:
 **** Front
 Words 2
@@ -1077,6 +1086,7 @@ heard
 *** build
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676005581122
 :END:
 **** Front
 Words 2
@@ -1087,6 +1097,7 @@ build
 *** built
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676005581497
 :END:
 **** Front
 Words 2
@@ -1097,6 +1108,7 @@ built
 *** felt
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676005581892
 :END:
 **** Front
 Words 2
@@ -1107,6 +1119,7 @@ felt
 *** quart
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676005582297
 :END:
 **** Front
 Words 2
@@ -1117,6 +1130,7 @@ quart
 *** crept
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676005582854
 :END:
 **** Front
 Words 2
@@ -1127,6 +1141,7 @@ crept
 *** tract
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676005583261
 :END:
 **** Front
 Words 2
@@ -1137,6 +1152,7 @@ tract
 *** left
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676005583687
 :END:
 **** Front
 Words 2
@@ -1147,6 +1163,7 @@ left
 *** cart
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676005584171
 :END:
 **** Front
 Words 2
@@ -1157,6 +1174,7 @@ cart
 *** golden
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676005584743
 :END:
 **** Front
 Words 2
@@ -1167,6 +1185,7 @@ golden
 *** wilder
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676005585302
 :END:
 **** Front
 Words 2
@@ -1177,6 +1196,7 @@ wilder
 *** border
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676005586532
 :END:
 **** Front
 Words 2
@@ -1187,6 +1207,7 @@ border
 *** end
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676005587003
 :END:
 **** Front
 Words 2
@@ -1197,6 +1218,7 @@ end
 *** depend
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676005587542
 :END:
 **** Front
 Words 2
@@ -1207,6 +1229,7 @@ depend
 *** pent
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676005587932
 :END:
 **** Front
 Words 2
@@ -1217,6 +1240,7 @@ pent
 *** past
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676005588373
 :END:
 **** Front
 Words 2
@@ -1227,6 +1251,7 @@ past
 *** caps
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676005588791
 :END:
 **** Front
 Words 2
@@ -1237,6 +1262,7 @@ caps
 *** rates
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676005589201
 :END:
 **** Front
 Words 2
@@ -1247,6 +1273,7 @@ rates
 *** docks
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676005589721
 :END:
 **** Front
 Words 2
@@ -1257,6 +1284,7 @@ docks
 *** laughs
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676005590127
 :END:
 **** Front
 Words 2
@@ -1267,6 +1295,7 @@ laughs
 *** rests
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676005590534
 :END:
 **** Front
 Words 2
@@ -1277,6 +1306,7 @@ rests
 *** asks
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676005590972
 :END:
 **** Front
 Words 2
@@ -1287,6 +1317,7 @@ asks
 *** lisps
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676005591497
 :END:
 **** Front
 Words 2
@@ -1297,6 +1328,7 @@ lisps
 *** robs
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676005591912
 :END:
 **** Front
 Words 2
@@ -1307,6 +1339,7 @@ robs
 *** lads
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676005592341
 :END:
 **** Front
 Words 2
@@ -1317,6 +1350,7 @@ lads
 *** eggs
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676005592722
 :END:
 **** Front
 Words 2
@@ -1327,6 +1361,7 @@ eggs
 *** loves
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676005593277
 :END:
 **** Front
 Words 2
@@ -1337,6 +1372,7 @@ loves
 *** clothes
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676005593645
 :END:
 **** Front
 Words 2
@@ -1347,6 +1383,7 @@ clothes
 *** aims
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676005594221
 :END:
 **** Front
 Words 2
@@ -1357,6 +1394,7 @@ aims
 *** nails
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676005594642
 :END:
 **** Front
 Words 2
@@ -1367,6 +1405,7 @@ nails
 *** cars
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676005595096
 :END:
 **** Front
 Words 2
@@ -1377,6 +1416,7 @@ cars
 *** sins
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676005595651
 :END:
 **** Front
 Words 2
@@ -1387,6 +1427,7 @@ sins
 *** rays
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676005596067
 :END:
 **** Front
 Words 2
@@ -1397,6 +1438,7 @@ rays
 *** raise
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676005596442
 :END:
 **** Front
 Words 2
@@ -1407,6 +1449,7 @@ raise
 *** paws
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676005596872
 :END:
 **** Front
 Words 2
@@ -1417,6 +1460,7 @@ paws
 *** pause
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676005597423
 :END:
 **** Front
 Words 2
@@ -1427,6 +1471,7 @@ pause
 *** fees
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676005597817
 :END:
 **** Front
 Words 2
@@ -1437,6 +1482,7 @@ fees
 *** blues
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676005598233
 :END:
 **** Front
 Words 2
@@ -1447,6 +1493,7 @@ blues
 *** lies
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676005598601
 :END:
 **** Front
 Words 2
@@ -1457,6 +1504,7 @@ lies
 *** dues
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676005599167
 :END:
 **** Front
 Words 2
@@ -1467,6 +1515,7 @@ dues
 *** cows
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676005599599
 :END:
 **** Front
 Words 2
@@ -1477,6 +1526,7 @@ cows
 *** pas
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676005599980
 :END:
 **** Front
 Words 2
@@ -1487,6 +1537,7 @@ pa’s
 *** cats
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676005600402
 :END:
 **** Front
 Words 2
@@ -1497,6 +1548,7 @@ cats
 *** paw
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676005600798
 :END:
 **** Front
 Words 2
@@ -1507,6 +1559,7 @@ paw
 *** deaths
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676005601302
 :END:
 **** Front
 Words 2
@@ -1517,6 +1570,7 @@ deaths
 *** raises
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676005601758
 :END:
 **** Front
 Words 2
@@ -1527,6 +1581,7 @@ raises
 *** pauses
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676005602177
 :END:
 **** Front
 Words 2
@@ -1537,6 +1592,7 @@ pauses
 *** passes
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676005602602
 :END:
 **** Front
 Words 2
@@ -1547,6 +1603,7 @@ passes
 *** judges
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676005603177
 :END:
 **** Front
 Words 2
@@ -1557,6 +1614,7 @@ judges
 *** wretches
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676005603627
 :END:
 **** Front
 Words 2
@@ -1567,6 +1625,7 @@ wretches
 *** ass
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676005604074
 :END:
 **** Front
 Words 2
@@ -1577,6 +1636,7 @@ ass
 *** asses
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676005604508
 :END:
 **** Front
 Words 2
@@ -1587,6 +1647,7 @@ asses
 *** assess
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676005604906
 :END:
 **** Front
 Words 2
@@ -1597,6 +1658,7 @@ assess
 *** assesses
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676005605509
 :END:
 **** Front
 Words 2
@@ -1607,6 +1669,7 @@ assesses
 *** robbed
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676005605960
 :END:
 **** Front
 Words 2
@@ -1617,6 +1680,7 @@ robbed
 *** ragged
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676005606383
 :END:
 **** Front
 Words 2
@@ -1627,16 +1691,7 @@ ragged
 *** raised
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:END:
-**** Front
-Words 2
-
-[[file:words2/ragged.png]]
-**** Back
-ragged
-*** raised
-:PROPERTIES:
-:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676005607117
 :END:
 **** Front
 Words 2
@@ -1647,6 +1702,7 @@ raised
 *** bowled
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676005607549
 :END:
 **** Front
 Words 2
@@ -1657,6 +1713,7 @@ bowled
 *** tamed
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676005607958
 :END:
 **** Front
 Words 2
@@ -1667,6 +1724,7 @@ tamed
 *** bored
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676005608355
 :END:
 **** Front
 Words 2
@@ -1677,6 +1735,7 @@ bored
 *** lied
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676005608926
 :END:
 **** Front
 Words 2
