@@ -2172,3 +2172,322 @@ Words 2
 [[file:words2/porter.png]]
 **** Back
 porter
+*** elses
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676007537103
+:END:
+**** Front
+Words 2
+
+[[file:words2/elses.png]]
+**** Back
+elses
+*** furs
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676007537627
+:END:
+**** Front
+Words 2
+
+[[file:words2/furs.png]]
+**** Back
+furs
+*** furze
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676007538367
+:END:
+**** Front
+Words 2
+
+[[file:words2/furze.png]]
+**** Back
+furze
+*** furzy
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676007538868
+:END:
+**** Front
+Words 2
+
+[[file:words2/furzy.png]]
+**** Back
+furzy
+*** fears
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676007539400
+:END:
+**** Front
+Words 2
+
+[[file:words2/fears.png]]
+**** Back
+fears
+*** feared
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676007539894
+:END:
+**** Front
+Words 2
+
+[[file:words2/feared.png]]
+**** Back
+feared
+*** fiercely
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676007540426
+:END:
+**** Front
+Words 2
+
+[[file:words2/fiercely.png]]
+**** Back
+fiercely
+*** laps
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676007541276
+:END:
+**** Front
+Words 2
+
+[[file:words2/laps.png]]
+**** Back
+laps
+*** lapsed
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676007541854
+:END:
+**** Front
+Words 2
+
+[[file:words2/lapsed.png]]
+**** Back
+lapsed
+*** pastes
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676007542401
+:END:
+**** Front
+Words 2
+
+[[file:words2/pastes.png]]
+**** Back
+pastes
+*** paced
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676007543175
+:END:
+**** Front
+Words 2
+
+[[file:words2/paced.png]]
+**** Back
+paced
+*** pends
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676007543674
+:END:
+**** Front
+Words 2
+
+[[file:words2/pends.png]]
+**** Back
+pends
+*** pending
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676007544372
+:END:
+**** Front
+Words 2
+
+[[file:words2/pending.png]]
+**** Back
+pending
+*** penned
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676007544977
+:END:
+**** Front
+Words 2
+
+[[file:words2/penned.png]]
+**** Back
+penned
+*** densely
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676007545517
+:END:
+**** Front
+Words 2
+
+[[file:words2/densely.png]]
+**** Back
+densely
+*** dens
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676007546020
+:END:
+**** Front
+Words 2
+
+[[file:words2/dens.png]]
+**** Back
+dens
+*** pansy
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676007548397
+:END:
+**** Front
+Words 2
+
+[[file:words2/pansy.png]]
+**** Back
+pansy
+*** pansies
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676007551377
+:END:
+**** Front
+Words 2
+
+[[file:words2/pansies.png]]
+**** Back
+pansies
+*** pans
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676007551926
+:END:
+**** Front
+Words 2
+
+[[file:words2/pans.png]]
+**** Back
+pans
+*** smear
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676007552476
+:END:
+**** Front
+Words 2
+
+[[file:words2/smear.png]]
+**** Back
+smear
+*** snack
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676007553005
+:END:
+**** Front
+Words 2
+
+[[file:words2/snack.png]]
+**** Back
+snack
+*** sleep
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676007553474
+:END:
+**** Front
+Words 2
+
+[[file:words2/sleep.png]]
+**** Back
+sleep
+*** sphere
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676007554001
+:END:
+**** Front
+Words 2
+
+[[file:words2/sphere.png]]
+**** Back
+sphere
+*** globe
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676007554971
+:END:
+**** Front
+Words 2
+
+[[file:words2/globe.png]]
+**** Back
+globe
+*** blank
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676007555526
+:END:
+**** Front
+Words 2
+
+[[file:words2/blank.png]]
+**** Back
+blank
+*** close
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676007556042
+:END:
+**** Front
+Words 2
+
+[[file:words2/close.png]]
+**** Back
+close
+*** flat
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676007556571
+:END:
+**** Front
+Words 2
+
+[[file:words2/flat.png]]
+**** Back
+flat
+*** praise
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676007557096
+:END:
+**** Front
+Words 2
+
+[[file:words2/praise.png]]
+**** Back
+praise
+*** trip
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676007557758
+:END:
+**** Front
+Words 2
+
+[[file:words2/trip.png]]
+**** Back
+trip
