@@ -1743,3 +1743,432 @@ Words 2
 [[file:words2/lied.png]]
 **** Back
 lied
+*** sued
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676006131277
+:END:
+**** Front
+Words 2
+
+[[file:words2/sued.png]]
+**** Back
+sued
+*** vowed
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676006131693
+:END:
+**** Front
+Words 2
+
+[[file:words2/vowed.png]]
+**** Back
+vowed
+*** towed
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676006132165
+:END:
+**** Front
+Words 2
+
+[[file:words2/towed.png]]
+**** Back
+towed
+*** toad
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676006132669
+:END:
+**** Front
+Words 2
+
+[[file:words2/toad.png]]
+**** Back
+toad
+*** allowed
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676006133380
+:END:
+**** Front
+Words 2
+
+[[file:words2/allowed.png]]
+**** Back
+allowed
+*** aloud
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676006133849
+:END:
+**** Front
+Words 2
+
+[[file:words2/aloud.png]]
+**** Back
+aloud
+*** laughed
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676006134282
+:END:
+**** Front
+Words 2
+
+[[file:words2/laughed.png]]
+**** Back
+laughed
+*** raced
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676006134728
+:END:
+**** Front
+Words 2
+
+[[file:words2/raced.png]]
+**** Back
+raced
+*** passed
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676006135548
+:END:
+**** Front
+Words 2
+
+[[file:words2/passed.png]]
+**** Back
+passed
+*** capped
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676006136220
+:END:
+**** Front
+Words 2
+
+[[file:words2/capped.png]]
+**** Back
+capped
+*** rocked
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676006136670
+:END:
+**** Front
+Words 2
+
+[[file:words2/rocked.png]]
+**** Back
+rocked
+*** danced
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676006137315
+:END:
+**** Front
+Words 2
+
+[[file:words2/danced.png]]
+**** Back
+danced
+*** loaded
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676006137807
+:END:
+**** Front
+Words 2
+
+[[file:words2/loaded.png]]
+**** Back
+loaded
+*** wetted
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676006138247
+:END:
+**** Front
+Words 2
+
+[[file:words2/wetted.png]]
+**** Back
+wetted
+*** pasted
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676006138709
+:END:
+**** Front
+Words 2
+
+[[file:words2/pasted.png]]
+**** Back
+pasted
+*** ladies
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676006761426
+:END:
+**** Front
+Words 2
+
+[[file:words2/ladies.png]]
+**** Back
+ladies
+*** ladys
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676006761905
+:END:
+**** Front
+Words 2
+
+[[file:words2/ladys.png]]
+**** Back
+ladys
+*** marries
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676006762345
+:END:
+**** Front
+Words 2
+
+[[file:words2/marries.png]]
+**** Back
+marries
+*** mars
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676006762868
+:END:
+**** Front
+Words 2
+
+[[file:words2/mars.png]]
+**** Back
+mars
+*** caddies
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676006763418
+:END:
+**** Front
+Words 2
+
+[[file:words2/caddies.png]]
+**** Back
+caddies
+*** caddy
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676006763903
+:END:
+**** Front
+Words 2
+
+[[file:words2/caddy.png]]
+**** Back
+caddy
+*** cads
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676006764617
+:END:
+**** Front
+Words 2
+
+[[file:words2/cads.png]]
+**** Back
+cads
+*** part
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676006765177
+:END:
+**** Front
+Words 2
+
+[[file:words2/part.png]]
+**** Back
+part
+*** parted
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676006765697
+:END:
+**** Front
+Words 2
+
+[[file:words2/parted.png]]
+**** Back
+parted
+*** parts
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676006766223
+:END:
+**** Front
+Words 2
+
+[[file:words2/parts.png]]
+**** Back
+parts
+*** party
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676006766725
+:END:
+**** Front
+Words 2
+
+[[file:words2/party.png]]
+**** Back
+party
+*** parties
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676006767249
+:END:
+**** Front
+Words 2
+
+[[file:words2/parties.png]]
+**** Back
+parties
+*** acted
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676006767721
+:END:
+**** Front
+Words 2
+
+[[file:words2/acted.png]]
+**** Back
+acted
+*** acts
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676006768191
+:END:
+**** Front
+Words 2
+
+[[file:words2/acts.png]]
+**** Back
+acts
+*** lofty
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676006768716
+:END:
+**** Front
+Words 2
+
+[[file:words2/lofty.png]]
+**** Back
+lofty
+*** empty
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676006769272
+:END:
+**** Front
+Words 2
+
+[[file:words2/empty.png]]
+**** Back
+empty
+*** empties
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676006769977
+:END:
+**** Front
+Words 2
+
+[[file:words2/empties.png]]
+**** Back
+empties
+*** emptied
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676006770496
+:END:
+**** Front
+Words 2
+
+[[file:words2/emptied.png]]
+**** Back
+emptied
+*** adopts
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676006771029
+:END:
+**** Front
+Words 2
+
+[[file:words2/adopts.png]]
+**** Back
+adopts
+*** adopted
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676006771490
+:END:
+**** Front
+Words 2
+
+[[file:words2/adopted.png]]
+**** Back
+adopted
+*** snorting
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676006771971
+:END:
+**** Front
+Words 2
+
+[[file:words2/snorting.png]]
+**** Back
+snorting
+*** captain
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676006772522
+:END:
+**** Front
+Words 2
+
+[[file:words2/captain.png]]
+**** Back
+captain
+*** shorten
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676006773342
+:END:
+**** Front
+Words 2
+
+[[file:words2/shorten.png]]
+**** Back
+shorten
+*** porter
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676006773819
+:END:
+**** Front
+Words 2
+
+[[file:words2/porter.png]]
+**** Back
+porter
