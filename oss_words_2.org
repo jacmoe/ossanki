@@ -510,6 +510,17 @@ Words 2
 
 [[file:words2/tank.png]]
 **** Back
+tank
+*** tack
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676033689428
+:END:
+**** Front
+Words 2
+
+[[file:words2/tack.png]]
+**** Back
 tack
 *** amber
 :PROPERTIES:
@@ -2854,6 +2865,17 @@ Words 2
 [[file:words2/baron.png]]
 **** Back
 baron
+*** barren
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1676034918158
+:END:
+**** Front
+Words 2
+
+[[file:words2/barren.png]]
+**** Back
+barren
 *** earn
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
