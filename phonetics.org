@@ -1,0 +1,57 @@
+|           |             |                 |              |
+| æ  ɑː ɔː    | ɛ  eɪ  ɪ  iː  | uː  juː  aɪ  ɔɪ    | ɒ  əʊ  ʌ  ɔɪ   |
+|           | ɜ  eə     ɪə | ʊ                | aʊ            |
+|           |             |                 |              |
+| a  ah paw | e  ā   i  ē | oo  ū    ī   oi | o  ō   u  ou |
+
+|--------+---------------+----------------+--------------------+-------------|
+| Symbol | Examples      | Dictionary.com | English IPA Lookup | ToPhonetics |
+| ʌ       | cUp, lUck     | ʌ               | ə                   | ʌ            |
+| ɑ:      | Arm, fAther   | ɑ               | ɑ                   | ɑː           |
+| æ      | cAt, blAck    |                |                    |             |
+| e      | mEt, bEd      |                |                    |             |
+| ə       | Away, cinEmA  |                |                    |             |
+| ɜ:ʳ     | tURn, lEARn   |                |                    |             |
+| ɪ       | hIt, sIttIng  |                |                    |             |
+| i:     | sEE, hEAt     |                |                    |             |
+| ɒ       | hOt, rOck     |                |                    |             |
+| ɔ:      | cAll, fOUr    |                |                    |             |
+| ʊ       | pUt, cOUld    |                |                    |             |
+| u:     | blUE, fOOd    |                |                    |             |
+| aɪ      | fIve, EYE     |                |                    |             |
+| aʊ      | nOW, OUt      |                |                    |             |
+| oʊ      | gO, hOme      |                |                    |             |
+| eəʳ     | whERE, AIR    |                |                    |             |
+| eɪ      | sAY, EIGHt    |                |                    |             |
+| ɪəʳ      | nEAR, hERE    |                |                    |             |
+| ɔɪ      | bOY, jOIn     |                |                    |             |
+| ʊəʳ     | pURE, tOURist |                |                    |             |
+
+
+cat kæt at æt pat pæt back bæk mad mæd catch kæʧ man mæn dash dæʃ fat fæt add æd ass æs addle ˈædl 
+
+calf kɑːf arm ɑːm lath lɑːθ 
+
+pet pɛt et ɛt debt dɛt neck nɛk dead dɛd death dɛθ men mɛn leg lɛɡ guess ɡɛs check ʧɛk shed ʃɛd ebb ɛb edge ɛʤ egg ɛɡ
+
+pate peɪt eight eɪt date deɪt rain reɪn fame feɪm pace peɪs raise reɪz race reɪs pair peə fair feər aid eɪd ape eɪp ail eɪl
+
+pitch pɪʧ itch ɪʧ dip dɪp pid rɪd chip ʧɪp live lɪv gin ʤɪn sick sɪk big bɪɡ thick θɪk kiss kɪs inn ɪn ill ɪl
+
+peach piːʧ each iːʧ deep diːp pead riːd cheap ʧiːp leave liːv kneel niːl seek siːk neat niːt teeth tiːθ rear rɪər eke iːk eat iːt
+
+loose luːs ooze uːz
+`
+muse mjuːz use juːz
+
+side saɪd idle ˈaɪdl
+
+void vɔɪd
+
+cod kɒd odd ɒd
+
+code kəʊd ode əʊd
+
+cup kʌp up ʌp
+
+doubt daʊt out aʊt
