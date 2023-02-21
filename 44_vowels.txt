@@ -1,0 +1,20 @@
+01/25/æ/a, ai, au/cat, plaid, laugh/partner in crime with 38
+02/26/eɪ/a, ai, eigh, aigh, ay, er, et, ei, au, a_e, ea, ey/bay, maid, weigh, straight, pay, foyer, filet, eight, gauge, mate, break, they
+03/27/ɛ/e, ea, u, ie, ai, a, eo, ei, ae/end, bread, bury, friend, said, many, leopard, heifer, aesthetic/American
+04/28/i:/e, ee, ea, y, ey, oe, ie, i, ei, eo, ay/be, bee, meat, lady, key, phoenix, grief, ski, deceive, people, quay, see, heat
+05/29/ɪ/i, e, o, u, ui, y, ie/it, england, women, busy, guild, gym, sieve, sit, hit
+06/30/aɪ/i, y, igh, ie, uy, ye, ai, is, eigh, i_e/spider, sky, night, pie, guy, stye, aisle, island, height, kite
+07/31/ɒ/a, ho, au, aw, ough/swan, honest, maul, slaw, fought/rob is rɒb in British, rab in American
+08/32/oʊ/o, oa, o_e, oe, ow, ough, eau, oo, ew/open, moat, bone, toe, sow, dough, beau, brooch, sew
+09/33/ʊ/o, oo, u,ou/wolf, look, bush, would
+10/34/ʌ/u, o, oo, ou/lug, monkey, blood, double, cup
+11/35/u:/o, oo, ew, ue, u_e, oe, ough, ui, oew, ou/who, loon, dew, blue, flute, shoe, through, fruit, manoeuvre, group
+12/36/ɔɪ/oi, oy, uoy/join, boy, buoy
+13/37/aʊ/ow, ou, ough/now, shout, bough
+14/38/ə/a, er, i, ar, our, ur/about, ladder, pencil, dollar, honour, augur/partner in crime with 25
+15/39/eəʳ/air, are, ear, ere, eir, ayer/chair, dare, pear, where, their, prayer/British
+16/40/ɑ:/a/arm, father
+17/41/ɜ:ʳ/ir, er, ur, ear, or, our, yr/bird, term, burn, pearl, word, journey, myrtle
+18/42/ɔ:/aw, a, or, oor, ore, oar, our, augh, ar, ough, au/paw, ball, fork, poor, fore, board, four, taught, war, bought, sauce
+19/43/ɪəʳ/ear, eer, ere, ier/ear, steer, here, tier
+20/44/ʊəʳ/ure, our/cure, tourist
