@@ -1,5 +1,5 @@
 #! /usr/bin/fish
-ls words2 | awk '!/^$/' | sed 's/.png//' > words2.txt
+ls words2 | awk '!/^$/' | sed 's/.png//' >words2.txt
 
 awk '
     FNR == NR {
@@ -10,18 +10,17 @@ awk '
     {
       # reading file2
       for (elem in words)
-        if (tolower($2) == elem)
+        if (tolower($1) == elem)
           if (values[elem] == "") {
-            $1 = ""
             values[elem] = tolower($0)
           }
           else
             values[elem] = tolower($0)
-        if (not tolower($2) == values[elem])
+        if (not tolower($1) == values[elem])
             values[elem] = elem " ***NOT FOUND***"
     }
     END {
       for (elem in values)
         print values[elem]
     }
-' ./words2.txt ~/projects/cmudict-ipa/brown-frequency-list-with-ipa.txt | tee words2_processed.txt
+' ./words2.txt ~/projects/cmudict-ipa/cmudict-0.7b-ipa.txt | tee words2_processed.txt
