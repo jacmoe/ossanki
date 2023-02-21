@@ -4,7 +4,7 @@ ls words2 | awk '!/^$/' | sed 's/.png//' > words2.txt
 awk '
     FNR == NR {
       # reading file1
-      words[$1] = ""
+      words[$0] = $0
       next
     }
     {
@@ -17,11 +17,11 @@ awk '
           }
           else
             values[elem] = tolower($0)
-        if (tolower($2) != elem)
+        if (not tolower($2) == values[elem])
             values[elem] = elem " ***NOT FOUND***"
     }
     END {
       for (elem in values)
         print values[elem]
     }
-' ./words2.txt ~/projects/cmudict-ipa/brown-frequency-list-with-ipa.txt | sed 's/^ //g' | tee words2_processed.txt
+' ./words2.txt ~/projects/cmudict-ipa/brown-frequency-list-with-ipa.txt | tee words2_processed.txt
