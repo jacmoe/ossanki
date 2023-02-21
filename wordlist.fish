@@ -1,4 +1,7 @@
 #! /usr/bin/fish
+
+# Script reads from IPA dictionary downloaded from https://github.com/menelik3/cmudict-ipa
+
 ls words2 | awk '!/^$/' | sed 's/.png//' >words2.txt
 
 awk '
