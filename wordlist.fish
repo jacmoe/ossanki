@@ -15,6 +15,8 @@ awk '
             values[elem] = substr($3, 2)
           else
             values[elem] = values[elem] substr($3, 2)
+        if (tolower($2) != elem)
+            values[elem] = "***NOT FOUND***"
     }
     END {
       for (elem in values)
