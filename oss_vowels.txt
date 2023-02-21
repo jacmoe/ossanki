@@ -1,5 +1,5 @@
 01/æ/cat
-02/ɑː/arm
+02/ɑ/arm
 03/ɔ:/paw
 04/ɛ/pet, debt, neck
 05/eɪ/date, rain, pate, eight, maid, made, tray
@@ -13,3 +13,4 @@
 13/oʊ/code, foe
 14/ʌ/cup
 15/aʊ/doubt
+16/ɝː ɝ/fur, blur, churl
