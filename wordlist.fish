@@ -11,15 +11,17 @@ awk '
       # reading file2
       for (elem in words)
         if (tolower($2) == elem)
-          if (values[elem] == "")
-            values[elem] = substr($3, 2)
+          if (values[elem] == "") {
+            $1 = ""
+            values[elem] = tolower($0)
+          }
           else
-            values[elem] = values[elem] substr($3, 2)
+            values[elem] = tolower($0)
         if (tolower($2) != elem)
-            values[elem] = "***NOT FOUND***"
+            values[elem] = elem " ***NOT FOUND***"
     }
     END {
       for (elem in values)
-        print elem, values[elem]
+        print values[elem]
     }
-' ./words2.txt ~/projects/cmudict-ipa/brown-frequency-list-with-ipa.txt | tee words2_processed.txt
+' ./words2.txt ~/projects/cmudict-ipa/brown-frequency-list-with-ipa.txt | sed 's/^ //g' | tee words2_processed.txt
